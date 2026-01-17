@@ -38,9 +38,9 @@ The optional arguments are:
 Offense scores are determined by how many types can be hit for super effective damage with same-type attack bonus (STAB). Every offensive super effective adds `2.0` points to a pre-weighted attack score. Neutral damage adds `1.0`, resistances add `0.5`, and immunities add `0.0`. The pre-weighted score is then divided by the highest possible score `(2.0 * <total_number_of_types>)` to get the percentage of all types hit.
 
 For example:
-- `100.00%` --> can hit all other types with super effective STAB.
-- `50.00%` --> hits all other types with - at most - normal damage STAB.
-- `25.00%` --> can only hit other types with not very effective STAB.
+- `100.0%` --> can hit all other types with super effective STAB.
+- `50.0%` --> hits all other types with - at most - normal damage STAB.
+- `25.0%` --> can only hit other types with not very effective STAB.
 ### Defense Scores:
 This is a lot more subjective. All defensive matchups are examined, and a score is given for each defensive matchup. My personal rubric I made is as follows:
 - `0.0x` adds `2.0`
@@ -52,10 +52,10 @@ This is a lot more subjective. All defensive matchups are examined, and a score 
 This score is then divided by the highest possible score `(2.0 * <total_number_of_types>)` to get the percentage.
 
 For example:
-- `100.00%` --> immune to all types.
-- `75.00%` --> takes 0.5X damage from all types.
+- `100.0%` --> immune to all types.
+- `75.0%` --> takes 0.5X damage from all types.
 - `62.50%` --> takes neutral damage from all other types.
-- `25.00%` --> takes 2.0x damage from all other types.
+- `25.0%` --> takes 2.0x damage from all other types.
 
 #### My Reasoning:
 Of course immunity would add the most. The difference between normally resisting `(0.5x)`, super resisting `(0.25x or lower)`, and being immune `(0.0x)` is small, as I figure once a Pokemon resists a type, any damage becomes negligible the defender isn't excessively fragile. Normal damage `(1.0x)` is the same difference lower because it produced the most satisfying results. I dunno, man. `1.0` would probably also work fine. If you want to change this in your own run, just change the line `NORMAL_DAMAGE = 1.25` under `def setDefenseScore(self)` in the `TypeCombo` class. 
@@ -68,10 +68,17 @@ These are just the numerical mean of the offense and defense scores. `(offense_s
 ### Rankings
 For each list, type combinations are ranked by their respective scores. When there is a tie, the combination with fewer types is prioritized.
 
+## Future work:
+Ranking type offenses and defenses relative to the total number of Pokemon of each type. E.g. Water resistance might be seen as more important than Dragon resistance, since there are more Water types than Dragon types. This wouldn't account for competitive viability, though. There are many more Bug types than Dragon types, for instance, but Bug-type attacks aren't exactly a common threat.
+
+Better output. The long `.txt` file gets the job done, but it would be a lot better in a `.csv` file or something. It could also use better navigation.
+
+Maybe some kind of graphic? Not sure. I'm open to suggestions. 
 
 ## Credits:
 All scripting done by me.
 
+Type charts made by Mrinal Shankar on Kaggle. [Link here.](https://www.kaggle.com/datasets/mrinalshankar/pokemon-types)
+
 NONE OF THIS CODE WAS WRITTEN BY AI.
 
-Type charts made by Mrinal Shankar on Kaggle. [Link here.](https://www.kaggle.com/datasets/mrinalshankar/pokemon-types)
