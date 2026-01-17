@@ -11,22 +11,38 @@ Records ranking combinations up to 'n' types will be named as follows:
 
 ## How scores are calculated:
 ### Offense Scores:
-Offense scores are determined by how many types can be hit for super effective damage with same-type attack bonus (STAB). Every offensive super effective adds `2.0` points to a pre-weighted attack score. Neutral damage adds `1.0`, resistances add `0.5`, and immunities add `0.0`. The pre-weighted score is then divided by the maximum possible score `(2.0 * <total_number_of_types>)` to get the percentage of all types hit.
+Offense scores are determined by how many types can be hit for super effective damage with same-type attack bonus (STAB). Every offensive super effective adds `2.0` points to a pre-weighted attack score. Neutral damage adds `1.0`, resistances add `0.5`, and immunities add `0.0`. The pre-weighted score is then divided by the highest possible score `(2.0 * <total_number_of_types>)` to get the percentage of all types hit.
 
 For example:
-- `100.00%` would indicate that a type combination could hit all other types with super effective STAB.
-- `50.00%` would indicate that a type combination hits all other types with - at most - normal damage STAB.
-- `25.00%` would indicate that a type combination can only hit other types with not very effective STAB.
+- `100.00%` --> can hit all other types with super effective STAB.
+- `50.00%` --> hits all other types with - at most - normal damage STAB.
+- `25.00%` --> can only hit other types with not very effective STAB.
 ### Defense Scores:
 This is a lot more subjective. All defensive matchups are examined, and a score is given for each defensive matchup. My personal rubric I made is as follows:
-- 0.0x adds `2.0`
-- `\> 0.0x but \< 0.5x adds` `1.75`
-- 0.5x adds `1.5`
-- 1.0x adds `1.25`
-- 2.0x adds `0.5`
-- \>= 4.0x adds `0.0`
+- `0.0x` adds `2.0`
+- `> 0.0x but < 0.5x` adds `1.75`
+- `0.5x` adds `1.5`
+- `1.0x` adds `1.25`
+- `2.0x` adds `0.5`
+- `>= 4.0x` adds `0.0`
+This score is then divided by the highest possible score `(2.0 * <total_number_of_types>)` to get the percentage.
 
+For example:
+- `100.00%` --> immune to all types.
+- `75.00%` --> takes 0.5X damage from all types.
+- `62.50%` --> takes neutral damage from all other types.
+- `25.00%` would indicate that a
 
+#### My Reasoning:
+Of course immunity would add the most. The difference between normally resisting `(0.5x)`, super resisting `(0.25x or lower)`, and being immune `(0.0x)` is small, as I figure once a Pokemon resists a type, any damage becomes negligible the defender isn't excessively fragile. Normal damage `(1.0x)` is the same difference lower because it produced the most satisfying results. I dunno, man. `1.0` would probably also work fine. If you want to change this in your own run, just change the line `NORMAL_DAMAGE = 1.25` under `def setDefenseScore(self)` in the `TypeCombo` class. 
+
+Super effective damage `(2.0x)` is a lot lower than neutral damage, as I figure that's enough to at least two-shot a bulky Pokemon. Ultra effective damage `(>=4.0x)` is much lower than even that, since a 4.0x attack from anything is usually enough to one-shot most Pokemon. There are some defenses even lower than `4.0x`. Over 1,000 combinations have a `32.0x` weakness to some type. For example, `['Normal', 'Ice', 'Rock', 'Dark', 'Steel']` is `32.0x` weak to Fighting. Ouch. I didn't penalize these scores further, since a `4.0x` weakness will have the exact same effect as a `32.0x` weakness - your Pokemon won't survive it either way. 
+
+### Average Scores:
+These are just the numerical mean of the offense and defense scores. `(offense_score + defense_score) / 2.0`. Not much else to say.
+
+### Rankings
+For each list, type combinations are ranked by their respective scores. When there is a tie, the combination with fewer types is prioritized.
 
 ## How to run
 If you want to run the code yourself, do as follows:
