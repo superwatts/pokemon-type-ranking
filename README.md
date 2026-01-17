@@ -9,8 +9,23 @@ Records ranking combinations up to 'n' types will be named as follows:
 - Defense scores: `n_defense_scores.txt`
 - Full record: `n_types_all.txt`
 
-### How scores are calculated:
-Offense scores are determined by how many types can be hit for super effective damage with same-type attack bonus (STAB). For example, a score of 80.00% would indicate that a combo can hit 80.00% of all types for super effective damage.
+## How scores are calculated:
+### Offense Scores:
+Offense scores are determined by how many types can be hit for super effective damage with same-type attack bonus (STAB). Every offensive super effective adds `2.0` points to a pre-weighted attack score. Neutral damage adds `1.0`, resistances add `0.5`, and immunities add `0.0`. The pre-weighted score is then divided by the maximum possible score `(2.0 * <total_number_of_types>)` to get the percentage of all types hit.
+
+For example:
+- `100.00%` would indicate that a type combination could hit all other types with super effective STAB.
+- `50.00%` would indicate that a type combination hits all other types with - at most - normal damage STAB.
+- `25.00%` would indicate that a type combination can only hit other types with not very effective STAB.
+### Defense Scores:
+This is a lot more subjective. All defensive matchups are examined, and a score is given for each defensive matchup. My personal rubric I made is as follows:
+- 0.0x adds `2.0`
+- `\> 0.0x but \< 0.5x adds` `1.75`
+- 0.5x adds `1.5`
+- 1.0x adds `1.25`
+- 2.0x adds `0.5`
+- \>= 4.0x adds `0.0`
+
 
 
 ## How to run
