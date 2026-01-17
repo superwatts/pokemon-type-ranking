@@ -1,0 +1,18 @@
+Rank 1: 	['Ground']   58.33%	Highest for 1 type.
+Rank 2: 	['Rock']     56.94%	
+Rank 3: 	['Fire']     55.56%	
+Rank 4: 	['Ice']      55.56%	
+Rank 5: 	['Fairy']    54.17%	
+Rank 6: 	['Water']    54.17%	
+Rank 7: 	['Flying']   54.17%	
+Rank 8: 	['Fighting'] 54.17%	
+Rank 9: 	['Steel']    52.78%	
+Rank 10: 	['Ghost']    51.39%	
+Rank 11: 	['Dark']     51.39%	
+Rank 12: 	['Psychic']  50.0%	
+Rank 13: 	['Electric'] 48.61%	
+Rank 14: 	['Dragon']   48.61%	
+Rank 15: 	['Bug']      48.61%	
+Rank 16: 	['Grass']    48.61%	
+Rank 17: 	['Poison']   47.22%	
+Rank 18: 	['Normal']   44.44%	Lowest for 1 type.

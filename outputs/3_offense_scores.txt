@@ -1,0 +1,987 @@
+Rank 1: 	['Ice', 'Fighting', 'Ground']       83.33%	Highest for 3 types.
+Rank 2: 	['Fire', 'Ground', 'Fairy']         80.56%	
+Rank 3: 	['Ice', 'Ground', 'Steel']          80.56%	
+Rank 4: 	['Fighting', 'Ground', 'Flying']    80.56%	
+Rank 5: 	['Ice', 'Ground', 'Ghost']          80.56%	
+Rank 6: 	['Ice', 'Ground', 'Fairy']          80.56%	
+Rank 7: 	['Fire', 'Ice', 'Ground']           80.56%	
+Rank 8: 	['Ice', 'Ground', 'Flying']         80.56%	
+Rank 9: 	['Ice', 'Fighting', 'Ghost']        80.56%	
+Rank 10: 	['Ground', 'Bug', 'Rock']           80.56%	
+Rank 11: 	['Ground', 'Rock', 'Fairy']         80.56%	
+Rank 12: 	['Ice', 'Fighting', 'Dark']         80.56%	
+Rank 13: 	['Ice', 'Ground', 'Bug']            80.56%	
+Rank 14: 	['Ice', 'Fighting', 'Flying']       80.56%	
+Rank 15: 	['Ice', 'Fighting', 'Psychic']      80.56%	
+Rank 16: 	['Ice', 'Ground', 'Dark']           80.56%	
+Rank 17: 	['Ice', 'Ground', 'Rock']           80.56%	
+Rank 18: 	['Ice', 'Fighting', 'Rock']         80.56%	
+Rank 19: 	['Ground', 'Flying', 'Steel']       77.78%	
+Rank 20: 	['Ground', 'Steel', 'Fairy']        77.78%	
+Rank 21: 	['Ground', 'Bug', 'Steel']          77.78%	
+Rank 22: 	['Electric', 'Ground', 'Flying']    77.78%	
+Rank 23: 	['Ground', 'Flying', 'Fairy']       77.78%	
+Rank 24: 	['Fire', 'Ground', 'Ghost']         77.78%	
+Rank 25: 	['Ground', 'Flying', 'Ghost']       77.78%	
+Rank 26: 	['Fire', 'Water', 'Fairy']          77.78%	
+Rank 27: 	['Ground', 'Flying', 'Dark']        77.78%	
+Rank 28: 	['Ground', 'Ghost', 'Fairy']        77.78%	
+Rank 29: 	['Fire', 'Electric', 'Ground']      77.78%	
+Rank 30: 	['Fire', 'Ground', 'Dark']          77.78%	
+Rank 31: 	['Electric', 'Fighting', 'Flying']  77.78%	
+Rank 32: 	['Electric', 'Ground', 'Fairy']     77.78%	
+Rank 33: 	['Ice', 'Fighting', 'Steel']        77.78%	
+Rank 34: 	['Poison', 'Ground', 'Fairy']       77.78%	
+Rank 35: 	['Fire', 'Ground', 'Bug']           77.78%	
+Rank 36: 	['Ground', 'Dark', 'Fairy']         77.78%	
+Rank 37: 	['Fire', 'Grass', 'Ground']         77.78%	
+Rank 38: 	['Electric', 'Ground', 'Bug']       77.78%	
+Rank 39: 	['Grass', 'Ground', 'Flying']       77.78%	
+Rank 40: 	['Fighting', 'Flying', 'Dark']      77.78%	
+Rank 41: 	['Fire', 'Fighting', 'Ground']      77.78%	
+Rank 42: 	['Water', 'Fighting', 'Flying']     77.78%	
+Rank 43: 	['Ground', 'Flying', 'Rock']        77.78%	
+Rank 44: 	['Ground', 'Bug', 'Fairy']          77.78%	
+Rank 45: 	['Fighting', 'Flying', 'Ghost']     77.78%	
+Rank 46: 	['Fighting', 'Poison', 'Ground']    77.78%	
+Rank 47: 	['Fighting', 'Ground', 'Ghost']     77.78%	
+Rank 48: 	['Ground', 'Flying', 'Bug']         77.78%	
+Rank 49: 	['Grass', 'Ground', 'Fairy']        77.78%	
+Rank 50: 	['Ice', 'Poison', 'Ground']         77.78%	
+Rank 51: 	['Fighting', 'Poison', 'Rock']      77.78%	
+Rank 52: 	['Fighting', 'Ground', 'Dark']      77.78%	
+Rank 53: 	['Fighting', 'Ground', 'Fairy']     77.78%	
+Rank 54: 	['Electric', 'Fighting', 'Ground']  77.78%	
+Rank 55: 	['Fighting', 'Flying', 'Rock']      77.78%	
+Rank 56: 	['Fighting', 'Rock', 'Ghost']       77.78%	
+Rank 57: 	['Electric', 'Ice', 'Ground']       77.78%	
+Rank 58: 	['Fighting', 'Rock', 'Fairy']       77.78%	
+Rank 59: 	['Ground', 'Rock', 'Ghost']         77.78%	
+Rank 60: 	['Electric', 'Ice', 'Fighting']     77.78%	
+Rank 61: 	['Ice', 'Fighting', 'Poison']       77.78%	
+Rank 62: 	['Fighting', 'Bug', 'Rock']         77.78%	
+Rank 63: 	['Poison', 'Ground', 'Rock']        77.78%	
+Rank 64: 	['Fire', 'Ice', 'Fighting']         77.78%	
+Rank 65: 	['Ice', 'Fighting', 'Fairy']        77.78%	
+Rank 66: 	['Fighting', 'Rock', 'Dark']        77.78%	
+Rank 67: 	['Water', 'Ice', 'Fighting']        77.78%	
+Rank 68: 	['Grass', 'Fighting', 'Flying']     77.78%	
+Rank 69: 	['Grass', 'Fighting', 'Rock']       77.78%	
+Rank 70: 	['Grass', 'Ground', 'Rock']         77.78%	
+Rank 71: 	['Fighting', 'Psychic', 'Rock']     77.78%	
+Rank 72: 	['Grass', 'Ice', 'Ground']          77.78%	
+Rank 73: 	['Ice', 'Ground', 'Psychic']        77.78%	
+Rank 74: 	['Ground', 'Rock', 'Dark']          77.78%	
+Rank 75: 	['Ice', 'Fighting', 'Bug']          77.78%	
+Rank 76: 	['Fighting', 'Ground', 'Rock']      77.78%	
+Rank 77: 	['Grass', 'Ice', 'Fighting']        77.78%	
+Rank 78: 	['Fire', 'Grass', 'Fairy']          76.39%	
+Rank 79: 	['Grass', 'Rock', 'Fairy']          76.39%	
+Rank 80: 	['Grass', 'Ground', 'Bug']          76.39%	
+Rank 81: 	['Fighting', 'Ground', 'Bug']       76.39%	
+Rank 82: 	['Grass', 'Bug', 'Rock']            76.39%	
+Rank 83: 	['Ice', 'Ground']                   75.0%	Highest for 2 types.
+Rank 84: 	['Ice', 'Fighting']                 75.0%	Highest for 2 types.
+Rank 85: 	['Fighting', 'Flying', 'Steel']     75.0%	
+Rank 86: 	['Fire', 'Ground', 'Steel']         75.0%	
+Rank 87: 	['Water', 'Ground', 'Fairy']        75.0%	
+Rank 88: 	['Ground', 'Ghost', 'Steel']        75.0%	
+Rank 89: 	['Water', 'Ground', 'Flying']       75.0%	
+Rank 90: 	['Ice', 'Ghost', 'Steel']           75.0%	
+Rank 91: 	['Fire', 'Ground', 'Flying']        75.0%	
+Rank 92: 	['Fire', 'Ghost', 'Fairy']          75.0%	
+Rank 93: 	['Electric', 'Ground', 'Steel']     75.0%	
+Rank 94: 	['Grass', 'Ground', 'Steel']        75.0%	
+Rank 95: 	['Poison', 'Ground', 'Flying']      75.0%	
+Rank 96: 	['Ground', 'Dark', 'Steel']         75.0%	
+Rank 97: 	['Fire', 'Water', 'Ground']         75.0%	
+Rank 98: 	['Fighting', 'Ground', 'Steel']     75.0%	
+Rank 99: 	['Poison', 'Ground', 'Dark']        75.0%	
+Rank 100: 	['Fire', 'Water', 'Ghost']          75.0%	
+Rank 101: 	['Fire', 'Dark', 'Fairy']           75.0%	
+Rank 102: 	['Water', 'Ground', 'Bug']          75.0%	
+Rank 103: 	['Ice', 'Dark', 'Steel']            75.0%	
+Rank 104: 	['Fighting', 'Poison', 'Dark']      75.0%	
+Rank 105: 	['Fire', 'Electric', 'Fairy']       75.0%	
+Rank 106: 	['Fire', 'Grass', 'Ghost']          75.0%	
+Rank 107: 	['Fire', 'Poison', 'Ground']        75.0%	
+Rank 108: 	['Electric', 'Fighting', 'Ghost']   75.0%	
+Rank 109: 	['Fighting', 'Rock', 'Steel']       75.0%	
+Rank 110: 	['Ground', 'Flying', 'Dragon']      75.0%	
+Rank 111: 	['Fire', 'Water', 'Dark']           75.0%	
+Rank 112: 	['Electric', 'Fighting', 'Poison']  75.0%	
+Rank 113: 	['Fire', 'Water', 'Bug']            75.0%	
+Rank 114: 	['Fire', 'Electric', 'Fighting']    75.0%	
+Rank 115: 	['Fire', 'Fighting', 'Ghost']       75.0%	
+Rank 116: 	['Electric', 'Fighting', 'Dark']    75.0%	
+Rank 117: 	['Electric', 'Fighting', 'Fairy']   75.0%	
+Rank 118: 	['Fighting', 'Poison', 'Ghost']     75.0%	
+Rank 119: 	['Fighting', 'Ghost', 'Fairy']      75.0%	
+Rank 120: 	['Ground', 'Rock', 'Steel']         75.0%	
+Rank 121: 	['Fire', 'Water', 'Fighting']       75.0%	
+Rank 122: 	['Fire', 'Ground', 'Dragon']        75.0%	
+Rank 123: 	['Water', 'Ice', 'Ground']          75.0%	
+Rank 124: 	['Electric', 'Poison', 'Ground']    75.0%	
+Rank 125: 	['Electric', 'Ground', 'Ghost']     75.0%	
+Rank 126: 	['Fighting', 'Poison', 'Flying']    75.0%	
+Rank 127: 	['Fighting', 'Dark', 'Fairy']       75.0%	
+Rank 128: 	['Poison', 'Ground', 'Ghost']       75.0%	
+Rank 129: 	['Rock', 'Ghost', 'Fairy']          75.0%	
+Rank 130: 	['Fire', 'Ice', 'Ghost']            75.0%	
+Rank 131: 	['Fire', 'Fighting', 'Dark']        75.0%	
+Rank 132: 	['Fire', 'Fighting', 'Fairy']       75.0%	
+Rank 133: 	['Fire', 'Rock', 'Fairy']           75.0%	
+Rank 134: 	['Water', 'Electric', 'Fighting']   75.0%	
+Rank 135: 	['Water', 'Fighting', 'Poison']     75.0%	
+Rank 136: 	['Water', 'Fighting', 'Ground']     75.0%	
+Rank 137: 	['Water', 'Fighting', 'Ghost']      75.0%	
+Rank 138: 	['Water', 'Ground', 'Rock']         75.0%	
+Rank 139: 	['Water', 'Rock', 'Fairy']          75.0%	
+Rank 140: 	['Grass', 'Rock', 'Ghost']          75.0%	
+Rank 141: 	['Fire', 'Grass', 'Fighting']       75.0%	
+Rank 142: 	['Fire', 'Ground', 'Psychic']       75.0%	
+Rank 143: 	['Fire', 'Ground', 'Rock']          75.0%	
+Rank 144: 	['Water', 'Bug', 'Rock']            75.0%	
+Rank 145: 	['Electric', 'Fighting', 'Psychic'] 75.0%	
+Rank 146: 	['Grass', 'Ground', 'Ghost']        75.0%	
+Rank 147: 	['Fighting', 'Psychic', 'Ghost']    75.0%	
+Rank 148: 	['Poison', 'Ground', 'Bug']         75.0%	
+Rank 149: 	['Ground', 'Bug', 'Ghost']          75.0%	
+Rank 150: 	['Fire', 'Water', 'Psychic']        75.0%	
+Rank 151: 	['Fire', 'Grass', 'Dark']           75.0%	
+Rank 152: 	['Fire', 'Fighting', 'Psychic']     75.0%	
+Rank 153: 	['Water', 'Fighting', 'Dark']       75.0%	
+Rank 154: 	['Water', 'Fighting', 'Fairy']      75.0%	
+Rank 155: 	['Electric', 'Fighting', 'Bug']     75.0%	
+Rank 156: 	['Grass', 'Poison', 'Ground']       75.0%	
+Rank 157: 	['Fighting', 'Poison', 'Psychic']   75.0%	
+Rank 158: 	['Fighting', 'Psychic', 'Dark']     75.0%	
+Rank 159: 	['Fire', 'Grass', 'Rock']           75.0%	
+Rank 160: 	['Water', 'Fighting', 'Bug']        75.0%	
+Rank 161: 	['Ground', 'Bug', 'Dragon']         75.0%	
+Rank 162: 	['Fire', 'Ice', 'Dark']             75.0%	
+Rank 163: 	['Fire', 'Fighting', 'Rock']        75.0%	
+Rank 164: 	['Grass', 'Fighting', 'Ghost']      75.0%	
+Rank 165: 	['Fighting', 'Flying', 'Psychic']   75.0%	
+Rank 166: 	['Fighting', 'Flying', 'Dragon']    75.0%	
+Rank 167: 	['Fighting', 'Flying', 'Fairy']     75.0%	
+Rank 168: 	['Ground', 'Bug', 'Dark']           75.0%	
+Rank 169: 	['Rock', 'Dark', 'Fairy']           75.0%	
+Rank 170: 	['Water', 'Fighting', 'Psychic']    75.0%	
+Rank 171: 	['Electric', 'Ground', 'Dark']      75.0%	
+Rank 172: 	['Normal', 'Ice', 'Ground']         75.0%	
+Rank 173: 	['Fighting', 'Ground', 'Dragon']    75.0%	
+Rank 174: 	['Fighting', 'Psychic', 'Bug']      75.0%	
+Rank 175: 	['Fire', 'Grass', 'Psychic']        75.0%	
+Rank 176: 	['Electric', 'Ground', 'Rock']      75.0%	
+Rank 177: 	['Ice', 'Ground', 'Dragon']         75.0%	
+Rank 178: 	['Fighting', 'Ground', 'Psychic']   75.0%	
+Rank 179: 	['Fire', 'Ice', 'Psychic']          75.0%	
+Rank 180: 	['Water', 'Fighting', 'Rock']       75.0%	
+Rank 181: 	['Electric', 'Fighting', 'Rock']    75.0%	
+Rank 182: 	['Grass', 'Fighting', 'Ground']     75.0%	
+Rank 183: 	['Grass', 'Ground', 'Dark']         75.0%	
+Rank 184: 	['Grass', 'Rock', 'Dark']           75.0%	
+Rank 185: 	['Ice', 'Rock', 'Ghost']            75.0%	
+Rank 186: 	['Fighting', 'Flying', 'Bug']       75.0%	
+Rank 187: 	['Ground', 'Psychic', 'Bug']        75.0%	
+Rank 188: 	['Normal', 'Ice', 'Fighting']       75.0%	
+Rank 189: 	['Grass', 'Fighting', 'Dark']       75.0%	
+Rank 190: 	['Ice', 'Fighting', 'Dragon']       75.0%	
+Rank 191: 	['Fighting', 'Rock', 'Dragon']      75.0%	
+Rank 192: 	['Ground', 'Rock', 'Dragon']        75.0%	
+Rank 193: 	['Grass', 'Fighting', 'Psychic']    75.0%	
+Rank 194: 	['Ground', 'Psychic', 'Rock']       75.0%	
+Rank 195: 	['Ice', 'Rock', 'Dark']             75.0%	
+Rank 196: 	['Fire', 'Steel', 'Fairy']          73.61%	
+Rank 197: 	['Rock', 'Steel', 'Fairy']          73.61%	
+Rank 198: 	['Ice', 'Flying', 'Steel']          73.61%	
+Rank 199: 	['Fire', 'Water', 'Electric']       73.61%	
+Rank 200: 	['Bug', 'Rock', 'Steel']            73.61%	
+Rank 201: 	['Fighting', 'Poison', 'Fairy']     73.61%	
+Rank 202: 	['Poison', 'Rock', 'Fairy']         73.61%	
+Rank 203: 	['Bug', 'Rock', 'Fairy']            73.61%	
+Rank 204: 	['Ice', 'Psychic', 'Steel']         73.61%	
+Rank 205: 	['Grass', 'Flying', 'Rock']         73.61%	
+Rank 206: 	['Ice', 'Rock', 'Steel']            73.61%	
+Rank 207: 	['Fire', 'Ice', 'Fairy']            73.61%	
+Rank 208: 	['Grass', 'Poison', 'Rock']         73.61%	
+Rank 209: 	['Fire', 'Water', 'Ice']            73.61%	
+Rank 210: 	['Fire', 'Ice', 'Bug']              73.61%	
+Rank 211: 	['Grass', 'Fighting', 'Poison']     73.61%	
+Rank 212: 	['Fire', 'Grass', 'Bug']            73.61%	
+Rank 213: 	['Fighting', 'Bug', 'Fairy']        73.61%	
+Rank 214: 	['Fire', 'Grass', 'Ice']            73.61%	
+Rank 215: 	['Ice', 'Rock', 'Fairy']            73.61%	
+Rank 216: 	['Grass', 'Fighting', 'Fairy']      73.61%	
+Rank 217: 	['Grass', 'Psychic', 'Rock']        73.61%	
+Rank 218: 	['Psychic', 'Bug', 'Rock']          73.61%	
+Rank 219: 	['Ice', 'Bug', 'Rock']              73.61%	
+Rank 220: 	['Grass', 'Ice', 'Rock']            73.61%	
+Rank 221: 	['Ice', 'Psychic', 'Rock']          73.61%	
+Rank 222: 	['Ground', 'Flying']                72.22%	
+Rank 223: 	['Fire', 'Ground']                  72.22%	
+Rank 224: 	['Ground', 'Fairy']                 72.22%	
+Rank 225: 	['Fighting', 'Flying']              72.22%	
+Rank 226: 	['Ground', 'Rock']                  72.22%	
+Rank 227: 	['Fighting', 'Rock']                72.22%	
+Rank 228: 	['Water', 'Flying', 'Steel']        72.22%	
+Rank 229: 	['Water', 'Steel', 'Fairy']         72.22%	
+Rank 230: 	['Electric', 'Steel', 'Fairy']      72.22%	
+Rank 231: 	['Ghost', 'Steel', 'Fairy']         72.22%	
+Rank 232: 	['Fighting', 'Steel', 'Fairy']      72.22%	
+Rank 233: 	['Flying', 'Ghost', 'Steel']        72.22%	
+Rank 234: 	['Flying', 'Dark', 'Steel']         72.22%	
+Rank 235: 	['Dark', 'Steel', 'Fairy']          72.22%	
+Rank 236: 	['Fire', 'Electric', 'Steel']       72.22%	
+Rank 237: 	['Fire', 'Ghost', 'Steel']          72.22%	
+Rank 238: 	['Water', 'Ground', 'Steel']        72.22%	
+Rank 239: 	['Water', 'Bug', 'Steel']           72.22%	
+Rank 240: 	['Fighting', 'Ghost', 'Steel']      72.22%	
+Rank 241: 	['Electric', 'Bug', 'Steel']        72.22%	
+Rank 242: 	['Fire', 'Dark', 'Steel']           72.22%	
+Rank 243: 	['Water', 'Fighting', 'Steel']      72.22%	
+Rank 244: 	['Poison', 'Ground', 'Steel']       72.22%	
+Rank 245: 	['Fire', 'Fighting', 'Steel']       72.22%	
+Rank 246: 	['Water', 'Ghost', 'Fairy']         72.22%	
+Rank 247: 	['Electric', 'Fighting', 'Steel']   72.22%	
+Rank 248: 	['Fighting', 'Bug', 'Steel']        72.22%	
+Rank 249: 	['Ground', 'Dragon', 'Steel']       72.22%	
+Rank 250: 	['Water', 'Electric', 'Flying']     72.22%	
+Rank 251: 	['Water', 'Ground', 'Ghost']        72.22%	
+Rank 252: 	['Rock', 'Ghost', 'Steel']          72.22%	
+Rank 253: 	['Normal', 'Ground', 'Flying']      72.22%	
+Rank 254: 	['Fire', 'Water', 'Flying']         72.22%	
+Rank 255: 	['Fire', 'Psychic', 'Steel']        72.22%	
+Rank 256: 	['Fire', 'Rock', 'Steel']           72.22%	
+Rank 257: 	['Water', 'Poison', 'Fairy']        72.22%	
+Rank 258: 	['Grass', 'Fighting', 'Steel']      72.22%	
+Rank 259: 	['Fighting', 'Psychic', 'Steel']    72.22%	
+Rank 260: 	['Fighting', 'Dark', 'Steel']       72.22%	
+Rank 261: 	['Water', 'Electric', 'Bug']        72.22%	
+Rank 262: 	['Water', 'Electric', 'Fairy']      72.22%	
+Rank 263: 	['Water', 'Poison', 'Ground']       72.22%	
+Rank 264: 	['Water', 'Flying', 'Fairy']        72.22%	
+Rank 265: 	['Ice', 'Steel', 'Fairy']           72.22%	
+Rank 266: 	['Rock', 'Dark', 'Steel']           72.22%	
+Rank 267: 	['Water', 'Flying', 'Ghost']        72.22%	
+Rank 268: 	['Ice', 'Bug', 'Steel']             72.22%	
+Rank 269: 	['Normal', 'Fire', 'Ground']        72.22%	
+Rank 270: 	['Normal', 'Ground', 'Fairy']       72.22%	
+Rank 271: 	['Fire', 'Electric', 'Ghost']       72.22%	
+Rank 272: 	['Fire', 'Poison', 'Fairy']         72.22%	
+Rank 273: 	['Water', 'Flying', 'Dark']         72.22%	
+Rank 274: 	['Water', 'Dark', 'Fairy']          72.22%	
+Rank 275: 	['Electric', 'Ice', 'Steel']        72.22%	
+Rank 276: 	['Ground', 'Psychic', 'Steel']      72.22%	
+Rank 277: 	['Ground', 'Dragon', 'Fairy']       72.22%	
+Rank 278: 	['Fire', 'Water', 'Poison']         72.22%	
+Rank 279: 	['Fire', 'Water', 'Dragon']         72.22%	
+Rank 280: 	['Fire', 'Electric', 'Bug']         72.22%	
+Rank 281: 	['Fire', 'Electric', 'Dark']        72.22%	
+Rank 282: 	['Fire', 'Ice', 'Flying']           72.22%	
+Rank 283: 	['Water', 'Ground', 'Dark']         72.22%	
+Rank 284: 	['Water', 'Flying', 'Rock']         72.22%	
+Rank 285: 	['Water', 'Bug', 'Fairy']           72.22%	
+Rank 286: 	['Ice', 'Ghost', 'Fairy']           72.22%	
+Rank 287: 	['Fire', 'Ice', 'Steel']            72.22%	
+Rank 288: 	['Ground', 'Ghost', 'Dragon']       72.22%	
+Rank 289: 	['Normal', 'Ground', 'Bug']         72.22%	
+Rank 290: 	['Fire', 'Grass', 'Poison']         72.22%	
+Rank 291: 	['Fire', 'Fighting', 'Flying']      72.22%	
+Rank 292: 	['Fire', 'Psychic', 'Fairy']        72.22%	
+Rank 293: 	['Fire', 'Rock', 'Ghost']           72.22%	
+Rank 294: 	['Water', 'Ice', 'Flying']          72.22%	
+Rank 295: 	['Water', 'Ice', 'Ghost']           72.22%	
+Rank 296: 	['Water', 'Flying', 'Bug']          72.22%	
+Rank 297: 	['Water', 'Rock', 'Ghost']          72.22%	
+Rank 298: 	['Electric', 'Rock', 'Fairy']       72.22%	
+Rank 299: 	['Grass', 'Ghost', 'Fairy']         72.22%	
+Rank 300: 	['Poison', 'Ground', 'Dragon']      72.22%	
+Rank 301: 	['Poison', 'Rock', 'Dark']          72.22%	
+Rank 302: 	['Ground', 'Flying', 'Psychic']     72.22%	
+Rank 303: 	['Normal', 'Fighting', 'Flying']    72.22%	
+Rank 304: 	['Fire', 'Grass', 'Flying']         72.22%	
+Rank 305: 	['Fire', 'Fighting', 'Poison']      72.22%	
+Rank 306: 	['Fire', 'Psychic', 'Ghost']        72.22%	
+Rank 307: 	['Fire', 'Psychic', 'Dark']         72.22%	
+Rank 308: 	['Water', 'Poison', 'Rock']         72.22%	
+Rank 309: 	['Electric', 'Bug', 'Rock']         72.22%	
+Rank 310: 	['Ground', 'Psychic', 'Fairy']      72.22%	
+Rank 311: 	['Fire', 'Fighting', 'Bug']         72.22%	
+Rank 312: 	['Fire', 'Fighting', 'Dragon']      72.22%	
+Rank 313: 	['Fire', 'Bug', 'Rock']             72.22%	
+Rank 314: 	['Water', 'Fighting', 'Dragon']     72.22%	
+Rank 315: 	['Electric', 'Ground', 'Dragon']    72.22%	
+Rank 316: 	['Fighting', 'Bug', 'Ghost']        72.22%	
+Rank 317: 	['Fighting', 'Ghost', 'Dragon']     72.22%	
+Rank 318: 	['Poison', 'Ground', 'Psychic']     72.22%	
+Rank 319: 	['Ground', 'Psychic', 'Ghost']      72.22%	
+Rank 320: 	['Flying', 'Rock', 'Ghost']         72.22%	
+Rank 321: 	['Bug', 'Rock', 'Ghost']            72.22%	
+Rank 322: 	['Fire', 'Electric', 'Psychic']     72.22%	
+Rank 323: 	['Fire', 'Ice', 'Poison']           72.22%	
+Rank 324: 	['Fire', 'Rock', 'Dark']            72.22%	
+Rank 325: 	['Water', 'Ice', 'Fairy']           72.22%	
+Rank 326: 	['Grass', 'Flying', 'Ghost']        72.22%	
+Rank 327: 	['Ice', 'Flying', 'Ghost']          72.22%	
+Rank 328: 	['Fighting', 'Psychic', 'Fairy']    72.22%	
+Rank 329: 	['Poison', 'Rock', 'Ghost']         72.22%	
+Rank 330: 	['Fire', 'Electric', 'Ice']         72.22%	
+Rank 331: 	['Fire', 'Grass', 'Dragon']         72.22%	
+Rank 332: 	['Water', 'Grass', 'Fighting']      72.22%	
+Rank 333: 	['Electric', 'Fighting', 'Dragon']  72.22%	
+Rank 334: 	['Ground', 'Dragon', 'Dark']        72.22%	
+Rank 335: 	['Fire', 'Psychic', 'Bug']          72.22%	
+Rank 336: 	['Fighting', 'Poison', 'Dragon']    72.22%	
+Rank 337: 	['Ground', 'Psychic', 'Dark']       72.22%	
+Rank 338: 	['Flying', 'Rock', 'Dark']          72.22%	
+Rank 339: 	['Normal', 'Fighting', 'Ground']    72.22%	
+Rank 340: 	['Fire', 'Water', 'Rock']           72.22%	
+Rank 341: 	['Water', 'Ice', 'Bug']             72.22%	
+Rank 342: 	['Grass', 'Ice', 'Ghost']           72.22%	
+Rank 343: 	['Grass', 'Ground', 'Dragon']       72.22%	
+Rank 344: 	['Grass', 'Dark', 'Fairy']          72.22%	
+Rank 345: 	['Ice', 'Psychic', 'Ghost']         72.22%	
+Rank 346: 	['Ice', 'Dark', 'Fairy']            72.22%	
+Rank 347: 	['Fire', 'Psychic', 'Rock']         72.22%	
+Rank 348: 	['Water', 'Psychic', 'Bug']         72.22%	
+Rank 349: 	['Water', 'Rock', 'Dark']           72.22%	
+Rank 350: 	['Electric', 'Grass', 'Fighting']   72.22%	
+Rank 351: 	['Ice', 'Flying', 'Dark']           72.22%	
+Rank 352: 	['Fighting', 'Psychic', 'Dragon']   72.22%	
+Rank 353: 	['Psychic', 'Rock', 'Ghost']        72.22%	
+Rank 354: 	['Normal', 'Ground', 'Rock']        72.22%	
+Rank 355: 	['Water', 'Ice', 'Dark']            72.22%	
+Rank 356: 	['Electric', 'Ground', 'Psychic']   72.22%	
+Rank 357: 	['Grass', 'Flying', 'Dark']         72.22%	
+Rank 358: 	['Water', 'Psychic', 'Rock']        72.22%	
+Rank 359: 	['Normal', 'Fighting', 'Rock']      72.22%	
+Rank 360: 	['Water', 'Ice', 'Psychic']         72.22%	
+Rank 361: 	['Grass', 'Fighting', 'Bug']        72.22%	
+Rank 362: 	['Fire', 'Ice', 'Rock']             72.22%	
+Rank 363: 	['Grass', 'Fighting', 'Dragon']     72.22%	
+Rank 364: 	['Grass', 'Ground', 'Psychic']      72.22%	
+Rank 365: 	['Water', 'Ice', 'Rock']            72.22%	
+Rank 366: 	['Electric', 'Ice', 'Rock']         72.22%	
+Rank 367: 	['Ice', 'Psychic', 'Dark']          72.22%	
+Rank 368: 	['Psychic', 'Rock', 'Dark']         72.22%	
+Rank 369: 	['Grass', 'Ice', 'Dark']            72.22%	
+Rank 370: 	['Ground', 'Bug']                   70.83%	
+Rank 371: 	['Electric', 'Flying', 'Steel']     70.83%	
+Rank 372: 	['Flying', 'Steel', 'Fairy']        70.83%	
+Rank 373: 	['Grass', 'Flying', 'Steel']        70.83%	
+Rank 374: 	['Flying', 'Rock', 'Steel']         70.83%	
+Rank 375: 	['Fire', 'Water', 'Steel']          70.83%	
+Rank 376: 	['Fire', 'Grass', 'Steel']          70.83%	
+Rank 377: 	['Flying', 'Bug', 'Steel']          70.83%	
+Rank 378: 	['Fire', 'Bug', 'Steel']            70.83%	
+Rank 379: 	['Psychic', 'Bug', 'Steel']         70.83%	
+Rank 380: 	['Water', 'Electric', 'Ground']     70.83%	
+Rank 381: 	['Grass', 'Rock', 'Steel']          70.83%	
+Rank 382: 	['Water', 'Ice', 'Steel']           70.83%	
+Rank 383: 	['Fire', 'Water', 'Grass']          70.83%	
+Rank 384: 	['Fire', 'Electric', 'Grass']       70.83%	
+Rank 385: 	['Fire', 'Bug', 'Fairy']            70.83%	
+Rank 386: 	['Flying', 'Rock', 'Fairy']         70.83%	
+Rank 387: 	['Psychic', 'Rock', 'Steel']        70.83%	
+Rank 388: 	['Fighting', 'Bug', 'Dark']         70.83%	
+Rank 389: 	['Electric', 'Grass', 'Ground']     70.83%	
+Rank 390: 	['Fighting', 'Dragon', 'Dark']      70.83%	
+Rank 391: 	['Poison', 'Bug', 'Rock']           70.83%	
+Rank 392: 	['Grass', 'Flying', 'Fairy']        70.83%	
+Rank 393: 	['Flying', 'Bug', 'Rock']           70.83%	
+Rank 394: 	['Psychic', 'Rock', 'Fairy']        70.83%	
+Rank 395: 	['Poison', 'Psychic', 'Rock']       70.83%	
+Rank 396: 	['Bug', 'Rock', 'Dragon']           70.83%	
+Rank 397: 	['Fighting', 'Bug', 'Dragon']       70.83%	
+Rank 398: 	['Bug', 'Rock', 'Dark']             70.83%	
+Rank 399: 	['Ice', 'Flying', 'Bug']            70.83%	
+Rank 400: 	['Ice', 'Flying', 'Rock']           70.83%	
+Rank 401: 	['Grass', 'Rock', 'Dragon']         70.83%	
+Rank 402: 	['Grass', 'Flying', 'Bug']          70.83%	
+Rank 403: 	['Ice', 'Poison', 'Rock']           70.83%	
+Rank 404: 	['Grass', 'Ice', 'Flying']          70.83%	
+Rank 405: 	['Ice', 'Psychic', 'Bug']           70.83%	
+Rank 406: 	['Grass', 'Psychic', 'Bug']         70.83%	
+Rank 407: 	['Grass', 'Ice', 'Psychic']         70.83%	
+Rank 408: 	['Ground', 'Steel']                 69.44%	
+Rank 409: 	['Fighting', 'Ghost']               69.44%	
+Rank 410: 	['Ground', 'Ghost']                 69.44%	
+Rank 411: 	['Poison', 'Ground']                69.44%	
+Rank 412: 	['Electric', 'Fighting']            69.44%	
+Rank 413: 	['Fire', 'Fighting']                69.44%	
+Rank 414: 	['Water', 'Fighting']               69.44%	
+Rank 415: 	['Ground', 'Dark']                  69.44%	
+Rank 416: 	['Fighting', 'Ground']              69.44%	
+Rank 417: 	['Grass', 'Steel', 'Fairy']         69.44%	
+Rank 418: 	['Bug', 'Steel', 'Fairy']           69.44%	
+Rank 419: 	['Fire', 'Flying', 'Steel']         69.44%	
+Rank 420: 	['Water', 'Ghost', 'Steel']         69.44%	
+Rank 421: 	['Fire', 'Dragon', 'Steel']         69.44%	
+Rank 422: 	['Water', 'Electric', 'Steel']      69.44%	
+Rank 423: 	['Electric', 'Ghost', 'Steel']      69.44%	
+Rank 424: 	['Grass', 'Ghost', 'Steel']         69.44%	
+Rank 425: 	['Electric', 'Ghost', 'Fairy']      69.44%	
+Rank 426: 	['Bug', 'Ghost', 'Steel']           69.44%	
+Rank 427: 	['Water', 'Dark', 'Steel']          69.44%	
+Rank 428: 	['Poison', 'Dark', 'Fairy']         69.44%	
+Rank 429: 	['Bug', 'Dark', 'Steel']            69.44%	
+Rank 430: 	['Fire', 'Electric', 'Flying']      69.44%	
+Rank 431: 	['Electric', 'Dark', 'Steel']       69.44%	
+Rank 432: 	['Grass', 'Bug', 'Steel']           69.44%	
+Rank 433: 	['Fighting', 'Ghost', 'Dark']       69.44%	
+Rank 434: 	['Fighting', 'Dragon', 'Steel']     69.44%	
+Rank 435: 	['Normal', 'Fighting', 'Ghost']     69.44%	
+Rank 436: 	['Normal', 'Ground', 'Ghost']       69.44%	
+Rank 437: 	['Normal', 'Ground', 'Steel']       69.44%	
+Rank 438: 	['Water', 'Poison', 'Dark']         69.44%	
+Rank 439: 	['Electric', 'Poison', 'Fairy']     69.44%	
+Rank 440: 	['Electric', 'Flying', 'Fairy']     69.44%	
+Rank 441: 	['Fighting', 'Poison', 'Steel']     69.44%	
+Rank 442: 	['Fire', 'Dragon', 'Fairy']         69.44%	
+Rank 443: 	['Water', 'Psychic', 'Steel']       69.44%	
+Rank 444: 	['Electric', 'Flying', 'Ghost']     69.44%	
+Rank 445: 	['Grass', 'Dark', 'Steel']          69.44%	
+Rank 446: 	['Ground', 'Ghost', 'Dark']         69.44%	
+Rank 447: 	['Psychic', 'Ghost', 'Steel']       69.44%	
+Rank 448: 	['Fire', 'Poison', 'Dark']          69.44%	
+Rank 449: 	['Fire', 'Flying', 'Dark']          69.44%	
+Rank 450: 	['Water', 'Electric', 'Poison']     69.44%	
+Rank 451: 	['Water', 'Electric', 'Ghost']      69.44%	
+Rank 452: 	['Water', 'Poison', 'Flying']       69.44%	
+Rank 453: 	['Electric', 'Flying', 'Dark']      69.44%	
+Rank 454: 	['Electric', 'Psychic', 'Steel']    69.44%	
+Rank 455: 	['Electric', 'Rock', 'Steel']       69.44%	
+Rank 456: 	['Electric', 'Dark', 'Fairy']       69.44%	
+Rank 457: 	['Grass', 'Ice', 'Steel']           69.44%	
+Rank 458: 	['Poison', 'Ghost', 'Fairy']        69.44%	
+Rank 459: 	['Normal', 'Fire', 'Fairy']         69.44%	
+Rank 460: 	['Fire', 'Flying', 'Fairy']         69.44%	
+Rank 461: 	['Psychic', 'Dark', 'Steel']        69.44%	
+Rank 462: 	['Fire', 'Electric', 'Poison']      69.44%	
+Rank 463: 	['Fire', 'Flying', 'Ghost']         69.44%	
+Rank 464: 	['Fire', 'Ghost', 'Dragon']         69.44%	
+Rank 465: 	['Water', 'Grass', 'Fairy']         69.44%	
+Rank 466: 	['Water', 'Poison', 'Ghost']        69.44%	
+Rank 467: 	['Water', 'Rock', 'Steel']          69.44%	
+Rank 468: 	['Electric', 'Flying', 'Rock']      69.44%	
+Rank 469: 	['Electric', 'Bug', 'Fairy']        69.44%	
+Rank 470: 	['Flying', 'Ghost', 'Fairy']        69.44%	
+Rank 471: 	['Normal', 'Fire', 'Water']         69.44%	
+Rank 472: 	['Normal', 'Poison', 'Ground']      69.44%	
+Rank 473: 	['Fire', 'Electric', 'Dragon']      69.44%	
+Rank 474: 	['Fire', 'Flying', 'Rock']          69.44%	
+Rank 475: 	['Normal', 'Fighting', 'Psychic']   69.44%	
+Rank 476: 	['Fire', 'Bug', 'Dark']             69.44%	
+Rank 477: 	['Electric', 'Grass', 'Fairy']      69.44%	
+Rank 478: 	['Electric', 'Ice', 'Flying']       69.44%	
+Rank 479: 	['Electric', 'Flying', 'Bug']       69.44%	
+Rank 480: 	['Fire', 'Poison', 'Ghost']         69.44%	
+Rank 481: 	['Fire', 'Flying', 'Bug']           69.44%	
+Rank 482: 	['Fire', 'Bug', 'Ghost']            69.44%	
+Rank 483: 	['Water', 'Poison', 'Bug']          69.44%	
+Rank 484: 	['Water', 'Ground', 'Dragon']       69.44%	
+Rank 485: 	['Water', 'Psychic', 'Fairy']       69.44%	
+Rank 486: 	['Water', 'Bug', 'Ghost']           69.44%	
+Rank 487: 	['Grass', 'Poison', 'Dark']         69.44%	
+Rank 488: 	['Flying', 'Dark', 'Fairy']         69.44%	
+Rank 489: 	['Normal', 'Fire', 'Grass']         69.44%	
+Rank 490: 	['Normal', 'Electric', 'Fighting']  69.44%	
+Rank 491: 	['Normal', 'Fighting', 'Dark']      69.44%	
+Rank 492: 	['Normal', 'Fighting', 'Fairy']     69.44%	
+Rank 493: 	['Fire', 'Poison', 'Rock']          69.44%	
+Rank 494: 	['Fire', 'Bug', 'Dragon']           69.44%	
+Rank 495: 	['Fire', 'Dragon', 'Dark']          69.44%	
+Rank 496: 	['Water', 'Electric', 'Dark']       69.44%	
+Rank 497: 	['Water', 'Poison', 'Psychic']      69.44%	
+Rank 498: 	['Water', 'Flying', 'Dragon']       69.44%	
+Rank 499: 	['Water', 'Psychic', 'Ghost']       69.44%	
+Rank 500: 	['Electric', 'Ice', 'Ghost']        69.44%	
+Rank 501: 	['Electric', 'Rock', 'Ghost']       69.44%	
+Rank 502: 	['Normal', 'Fire', 'Fighting']      69.44%	
+Rank 503: 	['Normal', 'Electric', 'Ground']    69.44%	
+Rank 504: 	['Fire', 'Electric', 'Rock']        69.44%	
+Rank 505: 	['Water', 'Electric', 'Rock']       69.44%	
+Rank 506: 	['Water', 'Ground', 'Psychic']      69.44%	
+Rank 507: 	['Water', 'Flying', 'Psychic']      69.44%	
+Rank 508: 	['Water', 'Bug', 'Dragon']          69.44%	
+Rank 509: 	['Electric', 'Grass', 'Flying']     69.44%	
+Rank 510: 	['Grass', 'Poison', 'Ghost']        69.44%	
+Rank 511: 	['Fighting', 'Poison', 'Bug']       69.44%	
+Rank 512: 	['Fire', 'Poison', 'Bug']           69.44%	
+Rank 513: 	['Fire', 'Poison', 'Psychic']       69.44%	
+Rank 514: 	['Water', 'Grass', 'Rock']          69.44%	
+Rank 515: 	['Water', 'Ice', 'Poison']          69.44%	
+Rank 516: 	['Water', 'Bug', 'Dark']            69.44%	
+Rank 517: 	['Grass', 'Poison', 'Fairy']        69.44%	
+Rank 518: 	['Fire', 'Psychic', 'Dragon']       69.44%	
+Rank 519: 	['Water', 'Electric', 'Ice']        69.44%	
+Rank 520: 	['Water', 'Electric', 'Psychic']    69.44%	
+Rank 521: 	['Water', 'Grass', 'Flying']        69.44%	
+Rank 522: 	['Water', 'Psychic', 'Dark']        69.44%	
+Rank 523: 	['Electric', 'Ice', 'Bug']          69.44%	
+Rank 524: 	['Electric', 'Ice', 'Fairy']        69.44%	
+Rank 525: 	['Ice', 'Poison', 'Dark']           69.44%	
+Rank 526: 	['Fighting', 'Dragon', 'Fairy']     69.44%	
+Rank 527: 	['Normal', 'Fire', 'Ice']           69.44%	
+Rank 528: 	['Normal', 'Water', 'Fighting']     69.44%	
+Rank 529: 	['Normal', 'Ground', 'Dark']        69.44%	
+Rank 530: 	['Fire', 'Ice', 'Dragon']           69.44%	
+Rank 531: 	['Electric', 'Grass', 'Rock']       69.44%	
+Rank 532: 	['Ice', 'Poison', 'Ghost']          69.44%	
+Rank 533: 	['Rock', 'Ghost', 'Dragon']         69.44%	
+Rank 534: 	['Normal', 'Grass', 'Ground']       69.44%	
+Rank 535: 	['Fire', 'Rock', 'Dragon']          69.44%	
+Rank 536: 	['Water', 'Rock', 'Dragon']         69.44%	
+Rank 537: 	['Electric', 'Psychic', 'Bug']      69.44%	
+Rank 538: 	['Water', 'Grass', 'Bug']           69.44%	
+Rank 539: 	['Grass', 'Bug', 'Ghost']           69.44%	
+Rank 540: 	['Electric', 'Rock', 'Dark']        69.44%	
+Rank 541: 	['Grass', 'Psychic', 'Ghost']       69.44%	
+Rank 542: 	['Ice', 'Bug', 'Ghost']             69.44%	
+Rank 543: 	['Electric', 'Grass', 'Bug']        69.44%	
+Rank 544: 	['Electric', 'Ice', 'Dark']         69.44%	
+Rank 545: 	['Ground', 'Psychic', 'Dragon']     69.44%	
+Rank 546: 	['Electric', 'Psychic', 'Rock']     69.44%	
+Rank 547: 	['Grass', 'Ice', 'Fairy']           69.44%	
+Rank 548: 	['Grass', 'Psychic', 'Dark']        69.44%	
+Rank 549: 	['Normal', 'Grass', 'Fighting']     69.44%	
+Rank 550: 	['Water', 'Grass', 'Ice']           69.44%	
+Rank 551: 	['Electric', 'Ice', 'Psychic']      69.44%	
+Rank 552: 	['Rock', 'Dragon', 'Dark']          69.44%	
+Rank 553: 	['Grass', 'Bug', 'Dark']            69.44%	
+Rank 554: 	['Ice', 'Bug', 'Dark']              69.44%	
+Rank 555: 	['Grass', 'Ice', 'Bug']             69.44%	
+Rank 556: 	['Fire', 'Fairy']                   68.06%	
+Rank 557: 	['Fighting', 'Dark']                68.06%	
+Rank 558: 	['Electric', 'Ground']              68.06%	
+Rank 559: 	['Fighting', 'Fairy']               68.06%	
+Rank 560: 	['Rock', 'Fairy']                   68.06%	
+Rank 561: 	['Fighting', 'Psychic']             68.06%	
+Rank 562: 	['Grass', 'Rock']                   68.06%	
+Rank 563: 	['Ice', 'Rock']                     68.06%	
+Rank 564: 	['Flying', 'Dragon', 'Steel']       68.06%	
+Rank 565: 	['Poison', 'Steel', 'Fairy']        68.06%	
+Rank 566: 	['Bug', 'Dragon', 'Steel']          68.06%	
+Rank 567: 	['Psychic', 'Steel', 'Fairy']       68.06%	
+Rank 568: 	['Flying', 'Psychic', 'Steel']      68.06%	
+Rank 569: 	['Poison', 'Rock', 'Steel']         68.06%	
+Rank 570: 	['Rock', 'Dragon', 'Steel']         68.06%	
+Rank 571: 	['Normal', 'Ice', 'Steel']          68.06%	
+Rank 572: 	['Ice', 'Poison', 'Steel']          68.06%	
+Rank 573: 	['Ice', 'Dragon', 'Steel']          68.06%	
+Rank 574: 	['Grass', 'Psychic', 'Steel']       68.06%	
+Rank 575: 	['Normal', 'Fighting', 'Poison']    68.06%	
+Rank 576: 	['Electric', 'Poison', 'Rock']      68.06%	
+Rank 577: 	['Rock', 'Dragon', 'Fairy']         68.06%	
+Rank 578: 	['Water', 'Grass', 'Ground']        68.06%	
+Rank 579: 	['Poison', 'Flying', 'Rock']        68.06%	
+Rank 580: 	['Normal', 'Rock', 'Fairy']         68.06%	
+Rank 581: 	['Normal', 'Fighting', 'Bug']       68.06%	
+Rank 582: 	['Normal', 'Bug', 'Rock']           68.06%	
+Rank 583: 	['Grass', 'Poison', 'Flying']       68.06%	
+Rank 584: 	['Ice', 'Poison', 'Flying']         68.06%	
+Rank 585: 	['Ice', 'Poison', 'Fairy']          68.06%	
+Rank 586: 	['Flying', 'Rock', 'Dragon']        68.06%	
+Rank 587: 	['Ice', 'Flying', 'Fairy']          68.06%	
+Rank 588: 	['Poison', 'Rock', 'Dragon']        68.06%	
+Rank 589: 	['Normal', 'Grass', 'Rock']         68.06%	
+Rank 590: 	['Grass', 'Poison', 'Psychic']      68.06%	
+Rank 591: 	['Grass', 'Flying', 'Dragon']       68.06%	
+Rank 592: 	['Ice', 'Psychic', 'Fairy']         68.06%	
+Rank 593: 	['Grass', 'Ice', 'Poison']          68.06%	
+Rank 594: 	['Grass', 'Bug', 'Fairy']           68.06%	
+Rank 595: 	['Ice', 'Poison', 'Bug']            68.06%	
+Rank 596: 	['Flying', 'Psychic', 'Rock']       68.06%	
+Rank 597: 	['Grass', 'Psychic', 'Fairy']       68.06%	
+Rank 598: 	['Ice', 'Poison', 'Psychic']        68.06%	
+Rank 599: 	['Ice', 'Flying', 'Psychic']        68.06%	
+Rank 600: 	['Normal', 'Ice', 'Rock']           68.06%	
+Rank 601: 	['Grass', 'Flying', 'Psychic']      68.06%	
+Rank 602: 	['Ice', 'Rock', 'Dragon']           68.06%	
+Rank 603: 	['Psychic', 'Rock', 'Dragon']       68.06%	
+Rank 604: 	['Grass', 'Bug', 'Dragon']          68.06%	
+Rank 605: 	['Fighting', 'Steel']               66.67%	
+Rank 606: 	['Water', 'Flying']                 66.67%	
+Rank 607: 	['Water', 'Fairy']                  66.67%	
+Rank 608: 	['Fire', 'Water']                   66.67%	
+Rank 609: 	['Fire', 'Ghost']                   66.67%	
+Rank 610: 	['Fire', 'Dark']                    66.67%	
+Rank 611: 	['Fire', 'Grass']                   66.67%	
+Rank 612: 	['Water', 'Bug']                    66.67%	
+Rank 613: 	['Fighting', 'Poison']              66.67%	
+Rank 614: 	['Ground', 'Dragon']                66.67%	
+Rank 615: 	['Ice', 'Ghost']                    66.67%	
+Rank 616: 	['Bug', 'Rock']                     66.67%	
+Rank 617: 	['Rock', 'Ghost']                   66.67%	
+Rank 618: 	['Fire', 'Psychic']                 66.67%	
+Rank 619: 	['Fire', 'Rock']                    66.67%	
+Rank 620: 	['Water', 'Rock']                   66.67%	
+Rank 621: 	['Fire', 'Ice']                     66.67%	
+Rank 622: 	['Ground', 'Psychic']               66.67%	
+Rank 623: 	['Ice', 'Dark']                     66.67%	
+Rank 624: 	['Electric', 'Poison', 'Steel']     66.67%	
+Rank 625: 	['Ghost', 'Dragon', 'Steel']        66.67%	
+Rank 626: 	['Water', 'Poison', 'Steel']        66.67%	
+Rank 627: 	['Water', 'Dragon', 'Steel']        66.67%	
+Rank 628: 	['Fire', 'Poison', 'Steel']         66.67%	
+Rank 629: 	['Water', 'Grass', 'Steel']         66.67%	
+Rank 630: 	['Electric', 'Dragon', 'Steel']     66.67%	
+Rank 631: 	['Normal', 'Fire', 'Steel']         66.67%	
+Rank 632: 	['Poison', 'Dark', 'Steel']         66.67%	
+Rank 633: 	['Fire', 'Ghost', 'Dark']           66.67%	
+Rank 634: 	['Poison', 'Ghost', 'Steel']        66.67%	
+Rank 635: 	['Normal', 'Fire', 'Ghost']         66.67%	
+Rank 636: 	['Normal', 'Fighting', 'Steel']     66.67%	
+Rank 637: 	['Electric', 'Grass', 'Steel']      66.67%	
+Rank 638: 	['Electric', 'Poison', 'Dark']      66.67%	
+Rank 639: 	['Dragon', 'Dark', 'Steel']         66.67%	
+Rank 640: 	['Water', 'Dragon', 'Fairy']        66.67%	
+Rank 641: 	['Electric', 'Poison', 'Flying']    66.67%	
+Rank 642: 	['Poison', 'Flying', 'Dark']        66.67%	
+Rank 643: 	['Normal', 'Water', 'Ground']       66.67%	
+Rank 644: 	['Normal', 'Water', 'Flying']       66.67%	
+Rank 645: 	['Normal', 'Water', 'Fairy']        66.67%	
+Rank 646: 	['Water', 'Grass', 'Ghost']         66.67%	
+Rank 647: 	['Water', 'Ghost', 'Dragon']        66.67%	
+Rank 648: 	['Electric', 'Poison', 'Ghost']     66.67%	
+Rank 649: 	['Normal', 'Ice', 'Ghost']          66.67%	
+Rank 650: 	['Fire', 'Flying', 'Dragon']        66.67%	
+Rank 651: 	['Water', 'Grass', 'Poison']        66.67%	
+Rank 652: 	['Water', 'Poison', 'Dragon']       66.67%	
+Rank 653: 	['Poison', 'Psychic', 'Dark']       66.67%	
+Rank 654: 	['Psychic', 'Ghost', 'Fairy']       66.67%	
+Rank 655: 	['Normal', 'Rock', 'Ghost']         66.67%	
+Rank 656: 	['Water', 'Electric', 'Dragon']     66.67%	
+Rank 657: 	['Electric', 'Grass', 'Ghost']      66.67%	
+Rank 658: 	['Electric', 'Psychic', 'Fairy']    66.67%	
+Rank 659: 	['Electric', 'Bug', 'Ghost']        66.67%	
+Rank 660: 	['Ice', 'Ghost', 'Dark']            66.67%	
+Rank 661: 	['Normal', 'Fire', 'Electric']      66.67%	
+Rank 662: 	['Normal', 'Fire', 'Bug']           66.67%	
+Rank 663: 	['Normal', 'Water', 'Bug']          66.67%	
+Rank 664: 	['Electric', 'Flying', 'Dragon']    66.67%	
+Rank 665: 	['Electric', 'Psychic', 'Ghost']    66.67%	
+Rank 666: 	['Poison', 'Flying', 'Ghost']       66.67%	
+Rank 667: 	['Poison', 'Psychic', 'Ghost']      66.67%	
+Rank 668: 	['Bug', 'Ghost', 'Fairy']           66.67%	
+Rank 669: 	['Rock', 'Ghost', 'Dark']           66.67%	
+Rank 670: 	['Normal', 'Fire', 'Psychic']       66.67%	
+Rank 671: 	['Normal', 'Fire', 'Dark']          66.67%	
+Rank 672: 	['Fire', 'Poison', 'Dragon']        66.67%	
+Rank 673: 	['Electric', 'Poison', 'Bug']       66.67%	
+Rank 674: 	['Electric', 'Poison', 'Psychic']   66.67%	
+Rank 675: 	['Electric', 'Flying', 'Psychic']   66.67%	
+Rank 676: 	['Water', 'Dragon', 'Dark']         66.67%	
+Rank 677: 	['Electric', 'Grass', 'Poison']     66.67%	
+Rank 678: 	['Electric', 'Bug', 'Dark']         66.67%	
+Rank 679: 	['Flying', 'Ghost', 'Dragon']       66.67%	
+Rank 680: 	['Flying', 'Dragon', 'Dark']        66.67%	
+Rank 681: 	['Psychic', 'Dark', 'Fairy']        66.67%	
+Rank 682: 	['Normal', 'Ground', 'Dragon']      66.67%	
+Rank 683: 	['Fire', 'Flying', 'Psychic']       66.67%	
+Rank 684: 	['Electric', 'Psychic', 'Dark']     66.67%	
+Rank 685: 	['Electric', 'Bug', 'Dragon']       66.67%	
+Rank 686: 	['Normal', 'Ground', 'Psychic']     66.67%	
+Rank 687: 	['Flying', 'Psychic', 'Ghost']      66.67%	
+Rank 688: 	['Bug', 'Dark', 'Fairy']            66.67%	
+Rank 689: 	['Normal', 'Fire', 'Rock']          66.67%	
+Rank 690: 	['Normal', 'Water', 'Rock']         66.67%	
+Rank 691: 	['Electric', 'Ice', 'Poison']       66.67%	
+Rank 692: 	['Grass', 'Ghost', 'Dragon']        66.67%	
+Rank 693: 	['Ice', 'Ghost', 'Dragon']          66.67%	
+Rank 694: 	['Flying', 'Psychic', 'Dark']       66.67%	
+Rank 695: 	['Normal', 'Water', 'Ice']          66.67%	
+Rank 696: 	['Water', 'Grass', 'Dark']          66.67%	
+Rank 697: 	['Water', 'Ice', 'Dragon']          66.67%	
+Rank 698: 	['Water', 'Psychic', 'Dragon']      66.67%	
+Rank 699: 	['Electric', 'Rock', 'Dragon']      66.67%	
+Rank 700: 	['Flying', 'Bug', 'Ghost']          66.67%	
+Rank 701: 	['Flying', 'Bug', 'Dark']           66.67%	
+Rank 702: 	['Psychic', 'Bug', 'Ghost']         66.67%	
+Rank 703: 	['Normal', 'Fighting', 'Dragon']    66.67%	
+Rank 704: 	['Electric', 'Grass', 'Dark']       66.67%	
+Rank 705: 	['Water', 'Grass', 'Psychic']       66.67%	
+Rank 706: 	['Grass', 'Poison', 'Bug']          66.67%	
+Rank 707: 	['Psychic', 'Bug', 'Dark']          66.67%	
+Rank 708: 	['Normal', 'Ice', 'Dark']           66.67%	
+Rank 709: 	['Normal', 'Rock', 'Dark']          66.67%	
+Rank 710: 	['Ice', 'Bug', 'Fairy']             66.67%	
+Rank 711: 	['Electric', 'Grass', 'Ice']        66.67%	
+Rank 712: 	['Electric', 'Grass', 'Psychic']    66.67%	
+Rank 713: 	['Ice', 'Dragon', 'Dark']           66.67%	
+Rank 714: 	['Grass', 'Dragon', 'Dark']         66.67%	
+Rank 715: 	['Water', 'Ground']                 65.28%	
+Rank 716: 	['Rock', 'Steel']                   65.28%	
+Rank 717: 	['Ice', 'Steel']                    65.28%	
+Rank 718: 	['Fire', 'Electric']                65.28%	
+Rank 719: 	['Fire', 'Bug']                     65.28%	
+Rank 720: 	['Flying', 'Rock']                  65.28%	
+Rank 721: 	['Water', 'Ice']                    65.28%	
+Rank 722: 	['Grass', 'Ground']                 65.28%	
+Rank 723: 	['Ice', 'Flying']                   65.28%	
+Rank 724: 	['Grass', 'Flying']                 65.28%	
+Rank 725: 	['Fighting', 'Dragon']              65.28%	
+Rank 726: 	['Grass', 'Fighting']               65.28%	
+Rank 727: 	['Rock', 'Dark']                    65.28%	
+Rank 728: 	['Ice', 'Psychic']                  65.28%	
+Rank 729: 	['Psychic', 'Rock']                 65.28%	
+Rank 730: 	['Dragon', 'Steel', 'Fairy']        65.28%	
+Rank 731: 	['Poison', 'Flying', 'Steel']       65.28%	
+Rank 732: 	['Normal', 'Flying', 'Steel']       65.28%	
+Rank 733: 	['Normal', 'Steel', 'Fairy']        65.28%	
+Rank 734: 	['Normal', 'Bug', 'Steel']          65.28%	
+Rank 735: 	['Grass', 'Poison', 'Steel']        65.28%	
+Rank 736: 	['Poison', 'Bug', 'Steel']          65.28%	
+Rank 737: 	['Grass', 'Dragon', 'Steel']        65.28%	
+Rank 738: 	['Psychic', 'Dragon', 'Steel']      65.28%	
+Rank 739: 	['Normal', 'Rock', 'Steel']         65.28%	
+Rank 740: 	['Poison', 'Psychic', 'Steel']      65.28%	
+Rank 741: 	['Fire', 'Poison', 'Flying']        65.28%	
+Rank 742: 	['Poison', 'Flying', 'Fairy']       65.28%	
+Rank 743: 	['Poison', 'Psychic', 'Fairy']      65.28%	
+Rank 744: 	['Normal', 'Grass', 'Fairy']        65.28%	
+Rank 745: 	['Ice', 'Dragon', 'Fairy']          65.28%	
+Rank 746: 	['Normal', 'Poison', 'Rock']        65.28%	
+Rank 747: 	['Normal', 'Flying', 'Rock']        65.28%	
+Rank 748: 	['Grass', 'Poison', 'Dragon']       65.28%	
+Rank 749: 	['Grass', 'Dragon', 'Fairy']        65.28%	
+Rank 750: 	['Flying', 'Psychic', 'Fairy']      65.28%	
+Rank 751: 	['Normal', 'Grass', 'Flying']       65.28%	
+Rank 752: 	['Normal', 'Ice', 'Fairy']          65.28%	
+Rank 753: 	['Normal', 'Ice', 'Flying']         65.28%	
+Rank 754: 	['Poison', 'Flying', 'Bug']         65.28%	
+Rank 755: 	['Poison', 'Psychic', 'Bug']        65.28%	
+Rank 756: 	['Ice', 'Flying', 'Dragon']         65.28%	
+Rank 757: 	['Flying', 'Bug', 'Dragon']         65.28%	
+Rank 758: 	['Flying', 'Bug', 'Fairy']          65.28%	
+Rank 759: 	['Psychic', 'Bug', 'Fairy']         65.28%	
+Rank 760: 	['Normal', 'Grass', 'Bug']          65.28%	
+Rank 761: 	['Normal', 'Ice', 'Psychic']        65.28%	
+Rank 762: 	['Normal', 'Ice', 'Bug']            65.28%	
+Rank 763: 	['Normal', 'Psychic', 'Rock']       65.28%	
+Rank 764: 	['Ice', 'Bug', 'Dragon']            65.28%	
+Rank 765: 	['Flying', 'Psychic', 'Bug']        65.28%	
+Rank 766: 	['Psychic', 'Bug', 'Dragon']        65.28%	
+Rank 767: 	['Ice', 'Psychic', 'Dragon']        65.28%	
+Rank 768: 	['Normal', 'Grass', 'Ice']          65.28%	
+Rank 769: 	['Grass', 'Psychic', 'Dragon']      65.28%	
+Rank 770: 	['Grass', 'Ice', 'Dragon']          65.28%	
+Rank 771: 	['Flying', 'Steel']                 63.89%	
+Rank 772: 	['Steel', 'Fairy']                  63.89%	
+Rank 773: 	['Bug', 'Steel']                    63.89%	
+Rank 774: 	['Ghost', 'Steel']                  63.89%	
+Rank 775: 	['Fire', 'Steel']                   63.89%	
+Rank 776: 	['Ghost', 'Fairy']                  63.89%	
+Rank 777: 	['Dark', 'Steel']                   63.89%	
+Rank 778: 	['Electric', 'Fairy']               63.89%	
+Rank 779: 	['Water', 'Ghost']                  63.89%	
+Rank 780: 	['Dark', 'Fairy']                   63.89%	
+Rank 781: 	['Water', 'Poison']                 63.89%	
+Rank 782: 	['Fire', 'Dragon']                  63.89%	
+Rank 783: 	['Electric', 'Bug']                 63.89%	
+Rank 784: 	['Flying', 'Ghost']                 63.89%	
+Rank 785: 	['Flying', 'Dark']                  63.89%	
+Rank 786: 	['Normal', 'Ground']                63.89%	
+Rank 787: 	['Grass', 'Ghost']                  63.89%	
+Rank 788: 	['Water', 'Dark']                   63.89%	
+Rank 789: 	['Poison', 'Rock']                  63.89%	
+Rank 790: 	['Ice', 'Fairy']                    63.89%	
+Rank 791: 	['Water', 'Psychic']                63.89%	
+Rank 792: 	['Electric', 'Ice']                 63.89%	
+Rank 793: 	['Fighting', 'Bug']                 63.89%	
+Rank 794: 	['Ice', 'Bug']                      63.89%	
+Rank 795: 	['Grass', 'Dark']                   63.89%	
+Rank 796: 	['Grass', 'Ice']                    63.89%	
+Rank 797: 	['Normal', 'Ghost', 'Steel']        63.89%	
+Rank 798: 	['Ghost', 'Dark', 'Steel']          63.89%	
+Rank 799: 	['Normal', 'Ghost', 'Fairy']        63.89%	
+Rank 800: 	['Ghost', 'Dark', 'Fairy']          63.89%	
+Rank 801: 	['Normal', 'Water', 'Steel']        63.89%	
+Rank 802: 	['Normal', 'Water', 'Ghost']        63.89%	
+Rank 803: 	['Normal', 'Electric', 'Steel']     63.89%	
+Rank 804: 	['Normal', 'Dark', 'Steel']         63.89%	
+Rank 805: 	['Water', 'Ghost', 'Dark']          63.89%	
+Rank 806: 	['Normal', 'Electric', 'Flying']    63.89%	
+Rank 807: 	['Normal', 'Electric', 'Fairy']     63.89%	
+Rank 808: 	['Normal', 'Flying', 'Ghost']       63.89%	
+Rank 809: 	['Flying', 'Ghost', 'Dark']         63.89%	
+Rank 810: 	['Ghost', 'Dragon', 'Fairy']        63.89%	
+Rank 811: 	['Normal', 'Water', 'Poison']       63.89%	
+Rank 812: 	['Normal', 'Grass', 'Ghost']        63.89%	
+Rank 813: 	['Normal', 'Water', 'Electric']     63.89%	
+Rank 814: 	['Normal', 'Electric', 'Bug']       63.89%	
+Rank 815: 	['Electric', 'Dragon', 'Fairy']     63.89%	
+Rank 816: 	['Poison', 'Bug', 'Dark']           63.89%	
+Rank 817: 	['Normal', 'Dark', 'Fairy']         63.89%	
+Rank 818: 	['Poison', 'Dragon', 'Dark']        63.89%	
+Rank 819: 	['Dragon', 'Dark', 'Fairy']         63.89%	
+Rank 820: 	['Normal', 'Fire', 'Dragon']        63.89%	
+Rank 821: 	['Grass', 'Ghost', 'Dark']          63.89%	
+Rank 822: 	['Electric', 'Poison', 'Dragon']    63.89%	
+Rank 823: 	['Electric', 'Ghost', 'Dragon']     63.89%	
+Rank 824: 	['Poison', 'Ghost', 'Dragon']       63.89%	
+Rank 825: 	['Normal', 'Water', 'Psychic']      63.89%	
+Rank 826: 	['Normal', 'Flying', 'Dark']        63.89%	
+Rank 827: 	['Poison', 'Bug', 'Fairy']          63.89%	
+Rank 828: 	['Poison', 'Bug', 'Ghost']          63.89%	
+Rank 829: 	['Normal', 'Water', 'Dark']         63.89%	
+Rank 830: 	['Normal', 'Electric', 'Rock']      63.89%	
+Rank 831: 	['Psychic', 'Ghost', 'Dragon']      63.89%	
+Rank 832: 	['Normal', 'Electric', 'Ice']       63.89%	
+Rank 833: 	['Electric', 'Dragon', 'Dark']      63.89%	
+Rank 834: 	['Bug', 'Ghost', 'Dragon']          63.89%	
+Rank 835: 	['Psychic', 'Dragon', 'Dark']       63.89%	
+Rank 836: 	['Electric', 'Grass', 'Dragon']     63.89%	
+Rank 837: 	['Electric', 'Ice', 'Dragon']       63.89%	
+Rank 838: 	['Water', 'Grass', 'Dragon']        63.89%	
+Rank 839: 	['Electric', 'Psychic', 'Dragon']   63.89%	
+Rank 840: 	['Normal', 'Grass', 'Dark']         63.89%	
+Rank 841: 	['Water', 'Steel']                  62.5%	
+Rank 842: 	['Electric', 'Steel']               62.5%	
+Rank 843: 	['Electric', 'Flying']              62.5%	
+Rank 844: 	['Psychic', 'Steel']                62.5%	
+Rank 845: 	['Fire', 'Flying']                  62.5%	
+Rank 846: 	['Fire', 'Poison']                  62.5%	
+Rank 847: 	['Flying', 'Fairy']                 62.5%	
+Rank 848: 	['Electric', 'Rock']                62.5%	
+Rank 849: 	['Grass', 'Fairy']                  62.5%	
+Rank 850: 	['Flying', 'Bug']                   62.5%	
+Rank 851: 	['Ice', 'Poison']                   62.5%	
+Rank 852: 	['Rock', 'Dragon']                  62.5%	
+Rank 853: 	['Psychic', 'Bug']                  62.5%	
+Rank 854: 	['Grass', 'Psychic']                62.5%	
+Rank 855: 	['Poison', 'Dragon', 'Steel']       62.5%	
+Rank 856: 	['Normal', 'Grass', 'Steel']        62.5%	
+Rank 857: 	['Normal', 'Psychic', 'Steel']      62.5%	
+Rank 858: 	['Normal', 'Poison', 'Fairy']       62.5%	
+Rank 859: 	['Normal', 'Fire', 'Flying']        62.5%	
+Rank 860: 	['Poison', 'Dragon', 'Fairy']       62.5%	
+Rank 861: 	['Normal', 'Fire', 'Poison']        62.5%	
+Rank 862: 	['Normal', 'Flying', 'Fairy']       62.5%	
+Rank 863: 	['Poison', 'Flying', 'Dragon']      62.5%	
+Rank 864: 	['Flying', 'Dragon', 'Fairy']       62.5%	
+Rank 865: 	['Normal', 'Grass', 'Poison']       62.5%	
+Rank 866: 	['Normal', 'Bug', 'Fairy']          62.5%	
+Rank 867: 	['Poison', 'Flying', 'Psychic']     62.5%	
+Rank 868: 	['Bug', 'Dragon', 'Fairy']          62.5%	
+Rank 869: 	['Normal', 'Flying', 'Bug']         62.5%	
+Rank 870: 	['Poison', 'Psychic', 'Dragon']     62.5%	
+Rank 871: 	['Poison', 'Bug', 'Dragon']         62.5%	
+Rank 872: 	['Normal', 'Psychic', 'Bug']        62.5%	
+Rank 873: 	['Ice', 'Poison', 'Dragon']         62.5%	
+Rank 874: 	['Normal', 'Ice', 'Poison']         62.5%	
+Rank 875: 	['Flying', 'Psychic', 'Dragon']     62.5%	
+Rank 876: 	['Bug', 'Dragon', 'Dark']           62.5%	
+Rank 877: 	['Normal', 'Rock', 'Dragon']        62.5%	
+Rank 878: 	['Normal', 'Grass', 'Psychic']      62.5%	
+Rank 879: 	['Grass', 'Steel']                  61.11%	
+Rank 880: 	['Poison', 'Dark']                  61.11%	
+Rank 881: 	['Electric', 'Ghost']               61.11%	
+Rank 882: 	['Poison', 'Fairy']                 61.11%	
+Rank 883: 	['Water', 'Electric']               61.11%	
+Rank 884: 	['Poison', 'Ghost']                 61.11%	
+Rank 885: 	['Water', 'Dragon']                 61.11%	
+Rank 886: 	['Electric', 'Dark']                61.11%	
+Rank 887: 	['Bug', 'Ghost']                    61.11%	
+Rank 888: 	['Normal', 'Fighting']              61.11%	
+Rank 889: 	['Grass', 'Poison']                 61.11%	
+Rank 890: 	['Electric', 'Psychic']             61.11%	
+Rank 891: 	['Grass', 'Bug']                    61.11%	
+Rank 892: 	['Poison', 'Ghost', 'Dark']         61.11%	
+Rank 893: 	['Normal', 'Electric', 'Ghost']     61.11%	
+Rank 894: 	['Electric', 'Ghost', 'Dark']       61.11%	
+Rank 895: 	['Normal', 'Poison', 'Ghost']       61.11%	
+Rank 896: 	['Normal', 'Psychic', 'Ghost']      61.11%	
+Rank 897: 	['Normal', 'Poison', 'Dark']        61.11%	
+Rank 898: 	['Normal', 'Electric', 'Poison']    61.11%	
+Rank 899: 	['Normal', 'Bug', 'Ghost']          61.11%	
+Rank 900: 	['Bug', 'Ghost', 'Dark']            61.11%	
+Rank 901: 	['Normal', 'Water', 'Dragon']       61.11%	
+Rank 902: 	['Water', 'Electric', 'Grass']      61.11%	
+Rank 903: 	['Normal', 'Electric', 'Psychic']   61.11%	
+Rank 904: 	['Normal', 'Electric', 'Dark']      61.11%	
+Rank 905: 	['Normal', 'Water', 'Grass']        61.11%	
+Rank 906: 	['Normal', 'Psychic', 'Dark']       61.11%	
+Rank 907: 	['Normal', 'Electric', 'Grass']     61.11%	
+Rank 908: 	['Normal', 'Bug', 'Dark']           61.11%	
+Rank 909: 	['Poison', 'Steel']                 59.72%	
+Rank 910: 	['Dragon', 'Steel']                 59.72%	
+Rank 911: 	['Electric', 'Poison']              59.72%	
+Rank 912: 	['Psychic', 'Ghost']                59.72%	
+Rank 913: 	['Normal', 'Fire']                  59.72%	
+Rank 914: 	['Psychic', 'Fairy']                59.72%	
+Rank 915: 	['Poison', 'Psychic']               59.72%	
+Rank 916: 	['Flying', 'Dragon']                59.72%	
+Rank 917: 	['Psychic', 'Dark']                 59.72%	
+Rank 918: 	['Bug', 'Fairy']                    59.72%	
+Rank 919: 	['Flying', 'Psychic']               59.72%	
+Rank 920: 	['Normal', 'Ice']                   59.72%	
+Rank 921: 	['Normal', 'Rock']                  59.72%	
+Rank 922: 	['Ice', 'Dragon']                   59.72%	
+Rank 923: 	['Grass', 'Dragon']                 59.72%	
+Rank 924: 	['Normal', 'Dragon', 'Steel']       59.72%	
+Rank 925: 	['Normal', 'Poison', 'Steel']       59.72%	
+Rank 926: 	['Normal', 'Psychic', 'Fairy']      59.72%	
+Rank 927: 	['Normal', 'Poison', 'Psychic']     59.72%	
+Rank 928: 	['Psychic', 'Ghost', 'Dark']        59.72%	
+Rank 929: 	['Normal', 'Flying', 'Psychic']     59.72%	
+Rank 930: 	['Normal', 'Flying', 'Dragon']      59.72%	
+Rank 931: 	['Psychic', 'Dragon', 'Fairy']      59.72%	
+Rank 932: 	['Normal', 'Bug', 'Dragon']         59.72%	
+Rank 933: 	['Normal', 'Ice', 'Dragon']         59.72%	
+Rank 934: 	['Normal', 'Grass', 'Dragon']       59.72%	
+Rank 935: 	['Ground']                          58.33%	Highest for 1 type.
+Rank 936: 	['Poison', 'Flying']                58.33%	
+Rank 937: 	['Normal', 'Water']                 58.33%	
+Rank 938: 	['Ghost', 'Dragon']                 58.33%	
+Rank 939: 	['Water', 'Grass']                  58.33%	
+Rank 940: 	['Electric', 'Dragon']              58.33%	
+Rank 941: 	['Electric', 'Grass']               58.33%	
+Rank 942: 	['Bug', 'Dark']                     58.33%	
+Rank 943: 	['Bug', 'Dragon']                   58.33%	
+Rank 944: 	['Normal', 'Ghost', 'Dragon']       58.33%	
+Rank 945: 	['Ghost', 'Dragon', 'Dark']         58.33%	
+Rank 946: 	['Normal', 'Poison', 'Flying']      58.33%	
+Rank 947: 	['Normal', 'Poison', 'Bug']         58.33%	
+Rank 948: 	['Normal', 'Electric', 'Dragon']    58.33%	
+Rank 949: 	['Normal', 'Dragon', 'Dark']        58.33%	
+Rank 950: 	['Rock']                            56.94%	
+Rank 951: 	['Normal', 'Steel']                 56.94%	
+Rank 952: 	['Normal', 'Fairy']                 56.94%	
+Rank 953: 	['Dragon', 'Fairy']                 56.94%	
+Rank 954: 	['Poison', 'Dragon']                56.94%	
+Rank 955: 	['Poison', 'Bug']                   56.94%	
+Rank 956: 	['Dragon', 'Dark']                  56.94%	
+Rank 957: 	['Normal', 'Grass']                 56.94%	
+Rank 958: 	['Psychic', 'Dragon']               56.94%	
+Rank 959: 	['Normal', 'Dragon', 'Fairy']       56.94%	
+Rank 960: 	['Normal', 'Poison', 'Dragon']      56.94%	
+Rank 961: 	['Normal', 'Psychic', 'Dragon']     56.94%	
+Rank 962: 	['Fire']                            55.56%	
+Rank 963: 	['Ice']                             55.56%	
+Rank 964: 	['Normal', 'Ghost']                 55.56%	
+Rank 965: 	['Normal', 'Electric']              55.56%	
+Rank 966: 	['Normal', 'Flying']                55.56%	
+Rank 967: 	['Normal', 'Bug']                   55.56%	
+Rank 968: 	['Normal', 'Dark']                  55.56%	
+Rank 969: 	['Normal', 'Ghost', 'Dark']         55.56%	Lowest for 3 types.
+Rank 970: 	['Fairy']                           54.17%	
+Rank 971: 	['Water']                           54.17%	
+Rank 972: 	['Flying']                          54.17%	
+Rank 973: 	['Fighting']                        54.17%	
+Rank 974: 	['Ghost', 'Dark']                   54.17%	
+Rank 975: 	['Normal', 'Psychic']               54.17%	
+Rank 976: 	['Steel']                           52.78%	
+Rank 977: 	['Ghost']                           51.39%	
+Rank 978: 	['Dark']                            51.39%	
+Rank 979: 	['Normal', 'Poison']                51.39%	Lowest for 2 types.
+Rank 980: 	['Normal', 'Dragon']                51.39%	Lowest for 2 types.
+Rank 981: 	['Psychic']                         50.0%	
+Rank 982: 	['Electric']                        48.61%	
+Rank 983: 	['Dragon']                          48.61%	
+Rank 984: 	['Bug']                             48.61%	
+Rank 985: 	['Grass']                           48.61%	
+Rank 986: 	['Poison']                          47.22%	
+Rank 987: 	['Normal']                          44.44%	Lowest for 1 type.

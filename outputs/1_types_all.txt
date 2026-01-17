@@ -1,0 +1,497 @@
+Rank 1:
+['Steel']
+	# of Types: 1
+	Offense Score: 52.78%
+	Defense Score: 65.28%		Highest defense for 1 type.
+	Overall:       59.03%		Highest average for 1 type.
+WEAKNESSES:
+	Fire: 2.0x
+	Fighting: 2.0x
+	Ground: 2.0x
+RESISTANCES:
+	Normal: 0.5x
+	Grass: 0.5x
+	Ice: 0.5x
+	Flying: 0.5x
+	Psychic: 0.5x
+	Bug: 0.5x
+	Rock: 0.5x
+	Dragon: 0.5x
+	Steel: 0.5x
+	Fairy: 0.5x
+IMMUNITIES:
+	Poison: 0.0x
+OFFENSIVE SUPER:
+	Ice: 2.0x
+	Rock: 2.0x
+	Fairy: 2.0x
+OFFENSIVE RESIST:
+	Fire: 0.5x
+	Water: 0.5x
+	Electric: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 2:
+['Ground']
+	# of Types: 1
+	Offense Score: 58.33%		Highest offense for 1 type.
+	Defense Score: 59.72%
+	Overall:       59.03%
+WEAKNESSES:
+	Water: 2.0x
+	Grass: 2.0x
+	Ice: 2.0x
+RESISTANCES:
+	Poison: 0.5x
+	Rock: 0.5x
+IMMUNITIES:
+	Electric: 0.0x
+OFFENSIVE SUPER:
+	Fire: 2.0x
+	Electric: 2.0x
+	Poison: 2.0x
+	Rock: 2.0x
+	Steel: 2.0x
+OFFENSIVE RESIST:
+	Grass: 0.5x
+	Bug: 0.5x
+OFFENSIVE IMMUNE:
+	Flying: 0.0x
+
+Rank 3:
+['Fairy']
+	# of Types: 1
+	Offense Score: 54.17%
+	Defense Score: 62.5%
+	Overall:       58.33%
+WEAKNESSES:
+	Poison: 2.0x
+	Steel: 2.0x
+RESISTANCES:
+	Fighting: 0.5x
+	Bug: 0.5x
+	Dark: 0.5x
+IMMUNITIES:
+	Dragon: 0.0x
+OFFENSIVE SUPER:
+	Fighting: 2.0x
+	Dragon: 2.0x
+	Dark: 2.0x
+OFFENSIVE RESIST:
+	Fire: 0.5x
+	Poison: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 4:
+['Fire']
+	# of Types: 1
+	Offense Score: 55.56%
+	Defense Score: 60.42%
+	Overall:       57.99%
+WEAKNESSES:
+	Water: 2.0x
+	Ground: 2.0x
+	Rock: 2.0x
+RESISTANCES:
+	Fire: 0.5x
+	Grass: 0.5x
+	Ice: 0.5x
+	Bug: 0.5x
+	Steel: 0.5x
+	Fairy: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Grass: 2.0x
+	Ice: 2.0x
+	Bug: 2.0x
+	Steel: 2.0x
+OFFENSIVE RESIST:
+	Fire: 0.5x
+	Water: 0.5x
+	Rock: 0.5x
+	Dragon: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 5:
+['Water']
+	# of Types: 1
+	Offense Score: 54.17%
+	Defense Score: 61.11%
+	Overall:       57.64%
+WEAKNESSES:
+	Electric: 2.0x
+	Grass: 2.0x
+RESISTANCES:
+	Fire: 0.5x
+	Water: 0.5x
+	Ice: 0.5x
+	Steel: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Fire: 2.0x
+	Ground: 2.0x
+	Rock: 2.0x
+OFFENSIVE RESIST:
+	Water: 0.5x
+	Grass: 0.5x
+	Dragon: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 6:
+['Ghost']
+	# of Types: 1
+	Offense Score: 51.39%
+	Defense Score: 63.89%
+	Overall:       57.64%
+WEAKNESSES:
+	Ghost: 2.0x
+	Dark: 2.0x
+RESISTANCES:
+	Poison: 0.5x
+	Bug: 0.5x
+IMMUNITIES:
+	Normal: 0.0x
+	Fighting: 0.0x
+OFFENSIVE SUPER:
+	Psychic: 2.0x
+	Ghost: 2.0x
+OFFENSIVE RESIST:
+	Dark: 0.5x
+OFFENSIVE IMMUNE:
+	Normal: 0.0x
+
+Rank 7:
+['Flying']
+	# of Types: 1
+	Offense Score: 54.17%
+	Defense Score: 60.42%
+	Overall:       57.29%
+WEAKNESSES:
+	Electric: 2.0x
+	Ice: 2.0x
+	Rock: 2.0x
+RESISTANCES:
+	Grass: 0.5x
+	Fighting: 0.5x
+	Bug: 0.5x
+IMMUNITIES:
+	Ground: 0.0x
+OFFENSIVE SUPER:
+	Grass: 2.0x
+	Fighting: 2.0x
+	Bug: 2.0x
+OFFENSIVE RESIST:
+	Electric: 0.5x
+	Rock: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 8:
+['Fighting']
+	# of Types: 1
+	Offense Score: 54.17%
+	Defense Score: 58.33%
+	Overall:       56.25%
+WEAKNESSES:
+	Flying: 2.0x
+	Psychic: 2.0x
+	Fairy: 2.0x
+RESISTANCES:
+	Bug: 0.5x
+	Rock: 0.5x
+	Dark: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Normal: 2.0x
+	Ice: 2.0x
+	Rock: 2.0x
+	Dark: 2.0x
+	Steel: 2.0x
+OFFENSIVE RESIST:
+	Poison: 0.5x
+	Flying: 0.5x
+	Psychic: 0.5x
+	Bug: 0.5x
+	Fairy: 0.5x
+OFFENSIVE IMMUNE:
+	Ghost: 0.0x
+
+Rank 9:
+['Rock']
+	# of Types: 1
+	Offense Score: 56.94%
+	Defense Score: 54.86%		Lowest defense for 1 type.
+	Overall:       55.9%
+WEAKNESSES:
+	Water: 2.0x
+	Grass: 2.0x
+	Fighting: 2.0x
+	Ground: 2.0x
+	Steel: 2.0x
+RESISTANCES:
+	Normal: 0.5x
+	Fire: 0.5x
+	Poison: 0.5x
+	Flying: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Fire: 2.0x
+	Ice: 2.0x
+	Flying: 2.0x
+	Bug: 2.0x
+OFFENSIVE RESIST:
+	Fighting: 0.5x
+	Ground: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 10:
+['Electric']
+	# of Types: 1
+	Offense Score: 48.61%
+	Defense Score: 62.5%
+	Overall:       55.56%
+WEAKNESSES:
+	Ground: 2.0x
+RESISTANCES:
+	Electric: 0.5x
+	Flying: 0.5x
+	Steel: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Water: 2.0x
+	Flying: 2.0x
+OFFENSIVE RESIST:
+	Electric: 0.5x
+	Grass: 0.5x
+	Dragon: 0.5x
+OFFENSIVE IMMUNE:
+	Ground: 0.0x
+
+Rank 11:
+['Dark']
+	# of Types: 1
+	Offense Score: 51.39%
+	Defense Score: 59.72%
+	Overall:       55.56%
+WEAKNESSES:
+	Fighting: 2.0x
+	Bug: 2.0x
+	Fairy: 2.0x
+RESISTANCES:
+	Ghost: 0.5x
+	Dark: 0.5x
+IMMUNITIES:
+	Psychic: 0.0x
+OFFENSIVE SUPER:
+	Psychic: 2.0x
+	Ghost: 2.0x
+OFFENSIVE RESIST:
+	Fighting: 0.5x
+	Dark: 0.5x
+	Fairy: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 12:
+['Ice']
+	# of Types: 1
+	Offense Score: 55.56%
+	Defense Score: 54.86%		Lowest defense for 1 type.
+	Overall:       55.21%
+WEAKNESSES:
+	Fire: 2.0x
+	Fighting: 2.0x
+	Rock: 2.0x
+	Steel: 2.0x
+RESISTANCES:
+	Ice: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Grass: 2.0x
+	Ground: 2.0x
+	Flying: 2.0x
+	Dragon: 2.0x
+OFFENSIVE RESIST:
+	Fire: 0.5x
+	Water: 0.5x
+	Ice: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 13:
+['Poison']
+	# of Types: 1
+	Offense Score: 47.22%
+	Defense Score: 61.81%
+	Overall:       54.51%
+WEAKNESSES:
+	Ground: 2.0x
+	Psychic: 2.0x
+RESISTANCES:
+	Grass: 0.5x
+	Fighting: 0.5x
+	Poison: 0.5x
+	Bug: 0.5x
+	Fairy: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Grass: 2.0x
+	Fairy: 2.0x
+OFFENSIVE RESIST:
+	Poison: 0.5x
+	Ground: 0.5x
+	Rock: 0.5x
+	Ghost: 0.5x
+OFFENSIVE IMMUNE:
+	Steel: 0.0x
+
+Rank 14:
+['Psychic']
+	# of Types: 1
+	Offense Score: 50.0%
+	Defense Score: 57.64%
+	Overall:       53.82%
+WEAKNESSES:
+	Bug: 2.0x
+	Ghost: 2.0x
+	Dark: 2.0x
+RESISTANCES:
+	Fighting: 0.5x
+	Psychic: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Fighting: 2.0x
+	Poison: 2.0x
+OFFENSIVE RESIST:
+	Psychic: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	Dark: 0.0x
+
+Rank 15:
+['Dragon']
+	# of Types: 1
+	Offense Score: 48.61%
+	Defense Score: 59.03%
+	Overall:       53.82%
+WEAKNESSES:
+	Ice: 2.0x
+	Dragon: 2.0x
+	Fairy: 2.0x
+RESISTANCES:
+	Fire: 0.5x
+	Water: 0.5x
+	Electric: 0.5x
+	Grass: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Dragon: 2.0x
+OFFENSIVE RESIST:
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	Fairy: 0.0x
+
+Rank 16:
+['Normal']
+	# of Types: 1
+	Offense Score: 44.44%		Lowest offense for 1 type.
+	Defense Score: 62.5%
+	Overall:       53.47%
+WEAKNESSES:
+	Fighting: 2.0x
+RESISTANCES:
+	None.
+IMMUNITIES:
+	Ghost: 0.0x
+OFFENSIVE SUPER:
+	None.
+OFFENSIVE RESIST:
+	Rock: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	Ghost: 0.0x
+
+Rank 17:
+['Bug']
+	# of Types: 1
+	Offense Score: 48.61%
+	Defense Score: 58.33%
+	Overall:       53.47%
+WEAKNESSES:
+	Fire: 2.0x
+	Flying: 2.0x
+	Rock: 2.0x
+RESISTANCES:
+	Grass: 0.5x
+	Fighting: 0.5x
+	Ground: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Grass: 2.0x
+	Psychic: 2.0x
+	Dark: 2.0x
+OFFENSIVE RESIST:
+	Fire: 0.5x
+	Fighting: 0.5x
+	Poison: 0.5x
+	Flying: 0.5x
+	Ghost: 0.5x
+	Steel: 0.5x
+	Fairy: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
+Rank 18:
+['Grass']
+	# of Types: 1
+	Offense Score: 48.61%
+	Defense Score: 54.86%		Lowest defense for 1 type.
+	Overall:       51.74%		Lowest average for 1 type.
+WEAKNESSES:
+	Fire: 2.0x
+	Ice: 2.0x
+	Poison: 2.0x
+	Flying: 2.0x
+	Bug: 2.0x
+RESISTANCES:
+	Water: 0.5x
+	Electric: 0.5x
+	Grass: 0.5x
+	Ground: 0.5x
+IMMUNITIES:
+	None.
+OFFENSIVE SUPER:
+	Water: 2.0x
+	Ground: 2.0x
+	Rock: 2.0x
+OFFENSIVE RESIST:
+	Fire: 0.5x
+	Grass: 0.5x
+	Poison: 0.5x
+	Flying: 0.5x
+	Bug: 0.5x
+	Dragon: 0.5x
+	Steel: 0.5x
+OFFENSIVE IMMUNE:
+	None.
+
