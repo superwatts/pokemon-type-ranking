@@ -1,6 +1,6 @@
-# __main__.py
+# poketypes.py
 #
-# This is a program to find the best worst possible type combination in pokemon.
+# This is a program to find the best and worst possible type combinations in Pokemon.
 
 from    datetime        import datetime, timedelta
 import  math
@@ -470,3 +470,4 @@ if __name__ == "__main__":
   d_time = end_time - start_time
 
   print(f"\nProgram complete for combos of {N_COMBINATIONS}.\nTime elapsed: {str(d_time).split('.')[0] + '.' + str(d_time).split('.')[1][:2]}")
+
