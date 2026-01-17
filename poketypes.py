@@ -28,7 +28,6 @@ total = 0
 exclusive_str = ""
 exclusive_path = ""
 
-#TYPES = ['Normal','Fire','Water','Electric','Grass','Ice','Fighting','Poison','Ground','Flying','Psychic','Bug','Rock','Ghost','Dragon','Dark','Steel','Fairy']
 TYPES = CHART.columns.to_list()
 
 start_time = datetime.now()
@@ -161,14 +160,6 @@ class TypeCombo:
 
   def setDefenseScore(self):
     # Calculate the overall defense quality of this type combination.
-    '''
-    IMMUNE        = 1.25
-    SUPER_RESIST  = 1.125
-    RESIST        = 1.0
-    NORMAL_DAMAGE = 0.875
-    WEAK          = 0.5
-    SUPER_WEAK    = 0.25
-    #'''
 
     IMMUNE        = 2.0
     SUPER_RESIST  = 1.75
@@ -176,11 +167,7 @@ class TypeCombo:
     NORMAL_DAMAGE = 1.25
     WEAK          = 0.5
     SUPER_WEAK    = 0.0
-    # Resist 0.0<x<0.5: +1.5
-    # Resist 0.5x: 1.0
-    # Normal damage: 0.5
-    # Super effective: 0.0
-    # Ultra effective >2.0x: -0.5
+
     max_score = IMMUNE * len(TYPES) # Immune to everything.
     result = 0.0
     for val in self.defenses.values():
@@ -316,7 +303,6 @@ if __name__ == "__main__":
   # This is the most time consuming part.
   if DO_MULTIPROCESS:
     print("Preparing to multiprocess... ", end = "\r")
-    #"""
     input_combos = all_combos.copy()
     all_combos = []
     with Pool(math.floor(cpu_count()/2)) as p:
@@ -324,15 +310,7 @@ if __name__ == "__main__":
         all_combos.append(combo)
         completed += 1
         print(f"\rPopulated:         {completed} / {total} ", end="")
-    #"""
     
-    '''
-    with Pool(processes=cpu_count(), initializer=initWorker, initargs=(all_combos,)) as p:
-      for _ in p.imap_unordered(populateCombo, all_combos):
-        if WRITE_STATUS:
-          completed += 1
-          print(f"\rPopulated:       {completed} / {total} ", end="")
-    #'''
   else:
     for combo in all_combos:  
       combo.populate()
@@ -490,4 +468,5 @@ if __name__ == "__main__":
 
   end_time = datetime.now()
   d_time = end_time - start_time
+
   print(f"\nProgram complete for combos of {N_COMBINATIONS}.\nTime elapsed: {str(d_time).split('.')[0] + '.' + str(d_time).split('.')[1][:2]}")
