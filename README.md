@@ -2,7 +2,11 @@
 A script for ranking every possible Pokemon type combination (262,000+) by their offensive and defensive capabilities.
 
 ## The Results
-If you aren't interested in running the code on your own, go to the 'outputs' folder on the repository. This contains the records for type combinations of up to 2 types, up to 3 types, and up to 18 types. 
+If you aren't interested in running the code on your own, go to the 'outputs' folder on the repository. Each record contains scores for all type combinations up to the specified size. For example, the file for 3 types contains type combinations of sizes 1, 2, and 3.
+
+This repo has records for all combinations up to 6 types. The other outputs are too large and GitHub won't let me upload them :(((
+
+If you want to get the results ranking all the combinations, you'll need to run the script yourself for 18 types.
 
 Records ranking combinations up to 'n' types will be named as follows:
 - Offense scores: `n_offense_scores.txt`
@@ -51,7 +55,7 @@ For example:
 - `100.00%` --> immune to all types.
 - `75.00%` --> takes 0.5X damage from all types.
 - `62.50%` --> takes neutral damage from all other types.
-- `25.00%` would indicate that a
+- `25.00%` --> takes 2.0x damage from all other types.
 
 #### My Reasoning:
 Of course immunity would add the most. The difference between normally resisting `(0.5x)`, super resisting `(0.25x or lower)`, and being immune `(0.0x)` is small, as I figure once a Pokemon resists a type, any damage becomes negligible the defender isn't excessively fragile. Normal damage `(1.0x)` is the same difference lower because it produced the most satisfying results. I dunno, man. `1.0` would probably also work fine. If you want to change this in your own run, just change the line `NORMAL_DAMAGE = 1.25` under `def setDefenseScore(self)` in the `TypeCombo` class. 
